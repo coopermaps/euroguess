@@ -1,0 +1,2166 @@
+{
+  "Eurovision 2025": [
+    {
+      "id": "Albania",
+      "name": "Albania",
+      "flagUrl": "https://flagcdn.com/w320/al.png",
+      "title": "Shkodra Elektronike - Zjerm | Albania 🇦🇱 | Eurovision 2025",
+      "center": [
+        20.1,
+        41.1
+      ],
+      "spotifyId": "34ozWcKZQ0RvV9td8EHfXO"
+    },
+    {
+      "id": "Serbia",
+      "name": "Serbia",
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Princ - Mila | Serbia 🇷🇸 | Eurovision 2025",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "30ivP0TxQ9owZotAbhbiGt"
+    },
+    {
+      "id": "Slovenia",
+      "name": "Slovenia",
+      "flagUrl": "https://flagcdn.com/w320/si.png",
+      "title": "Klemen - How Much Time Do We Have Left | Slovenia 🇸🇮 | Eurovision 2025",
+      "center": [
+        14.8,
+        46.1
+      ],
+      "spotifyId": "104QgPphJUPg86IWYnAnL7"
+    },
+    {
+      "id": "Estonia",
+      "name": "Estonia",
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "Tommy Cash - Espresso Macchiato | Estonia 🇪🇪 | Eurovision 2025",
+      "center": [
+        25.0,
+        59.0
+      ],
+      "spotifyId": "3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "id": "France",
+      "name": "France",
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Louane - maman | France 🇫🇷 | Eurovision 2025",
+      "center": [
+        2.2,
+        46.2
+      ],
+      "spotifyId": "1iJ9cSEWYQsd2M7ROFyIZx"
+    },
+    {
+      "id": "Malta",
+      "name": "Malta",
+      "flagUrl": "https://flagcdn.com/w320/mt.png",
+      "title": "Miriana Conte - SERVING | Malta 🇲🇹 | Eurovision 2025",
+      "center": [
+        14.5,
+        35.9
+      ],
+      "spotifyId": "3RHRXSKaQ6oBS29iiDI3as"
+    },
+    {
+      "id": "Greece",
+      "name": "Greece",
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Klavdia - Asteromáta | Greece 🇬🇷 | Eurovision 2025",
+      "center": [
+        21.8,
+        39.0
+      ],
+      "spotifyId": "2aE2SRm4QraCuDBNnBsRIz"
+    },
+    {
+      "id": "Georgia",
+      "name": "Georgia",
+      "flagUrl": "https://flagcdn.com/w320/ge.png",
+      "title": "Mariam Shengelia - Freedom | Georgia 🇬🇪 | Eurovision 2025",
+      "center": [
+        43.5,
+        42.0
+      ],
+      "spotifyId": "5mjD2U1w6217p73LC9MEht"
+    },
+    {
+      "id": "Spain",
+      "name": "Spain",
+      "flagUrl": "https://flagcdn.com/w320/es.png",
+      "title": "Melody - ESA DIVA | Spain 🇪🇸 | Eurovision 2025",
+      "center": [
+        -3.7,
+        40.4
+      ],
+      "spotifyId": "5MOZUwlA3LPWFVhHNxWCfh"
+    },
+    {
+      "id": "Italy",
+      "name": "Italy",
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Lucio Corsi - Volevo Essere Un Duro | Italy 🇮🇹 | Eurovision 2025",
+      "center": [
+        12.5,
+        42.5
+      ],
+      "spotifyId": "5sFbAYktReH4AJbATsGAw8"
+    },
+    {
+      "id": "San Marino",
+      "name": "San Marino",
+      "flagUrl": "https://flagcdn.com/w320/sm.png",
+      "title": "Gabry Ponte - Tutta L'Italia | San Marino 🇸🇲 | Eurovision 2025",
+      "center": [
+        12.5,
+        43.9
+      ],
+      "spotifyId": "0h3w9Sr1gToqxA9gIs5O39"
+    },
+    {
+      "id": "Iceland",
+      "name": "Iceland",
+      "flagUrl": "https://flagcdn.com/w320/is.png",
+      "title": "VÆB - RÓA | Iceland 🇮🇸 | Eurovision 2025",
+      "center": [
+        -19.0,
+        65.0
+      ],
+      "spotifyId": "1YnOwWvV1bQevRqJMCbYJz"
+    },
+    {
+      "id": "Croatia",
+      "name": "Croatia",
+      "flagUrl": "https://flagcdn.com/w320/hr.png",
+      "title": "Marko Bošnjak - Poison Cake | Croatia 🇭🇷 | Eurovision 2025",
+      "center": [
+        15.2,
+        45.1
+      ],
+      "spotifyId": "0jtkkJ6Q0IB5iw5obHJDVl"
+    },
+    {
+      "id": "Ireland",
+      "name": "Ireland",
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "EMMY - Laika Party | Ireland 🇮🇪 | Eurovision 2025",
+      "center": [
+        -8.2,
+        53.4
+      ],
+      "spotifyId": "5PZnJ8GErvuiCo7wKKtpKo"
+    },
+    {
+      "id": "Latvia",
+      "name": "Latvia",
+      "flagUrl": "https://flagcdn.com/w320/lv.png",
+      "title": "Tautumeitas - Bur Man Laimi | Latvia 🇱🇻 | Eurovision 2025",
+      "center": [
+        24.6,
+        56.8
+      ],
+      "spotifyId": "6oGrwxJItvG261mLBk6DmK"
+    },
+    {
+      "id": "Norway",
+      "name": "Norway",
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "Kyle Alessandro - Lighter | Norway 🇳🇴 | Eurovision 2025",
+      "center": [
+        8.4,
+        60.5
+      ],
+      "spotifyId": "0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "id": "Cyprus",
+      "name": "Cyprus",
+      "flagUrl": "https://flagcdn.com/w320/cy.png",
+      "title": "Theo Evan - Shh | Cyprus 🇨🇾 | Eurovision 2025",
+      "center": [
+        33.4,
+        35.2
+      ],
+      "spotifyId": "3mwqwFYIrO8hE3YBN8gk14"
+    },
+    {
+      "id": "Belgium",
+      "name": "Belgium",
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Red Sebastian - Strobe Lights | Belgium 🇧🇪 | Eurovision 2025",
+      "center": [
+        4.6,
+        50.6
+      ],
+      "spotifyId": "0Tx2AeVKiYQjk8u9p4j6kV"
+    },
+    {
+      "id": "Germany",
+      "name": "Germany",
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Abor & Tynna - Baller | Germany 🇩🇪 | Eurovision 2025",
+      "center": [
+        10.4,
+        51.1
+      ],
+      "spotifyId": "4kbkYbhWNiSJraySknB4hD"
+    },
+    {
+      "id": "Montenegro",
+      "name": "Montenegro",
+      "flagUrl": "https://flagcdn.com/w320/me.png",
+      "title": "Nina Žižić - Dobrodošli | Montenegro 🇲🇪 | Eurovision 2025",
+      "center": [
+        19.2,
+        42.8
+      ],
+      "spotifyId": "5UspyMgNKogZTVNc9Ptl9P"
+    },
+    {
+      "id": "Ukraine",
+      "name": "Ukraine",
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "Ziferblat - Bird of Pray | Ukraine 🇺🇦 | Eurovision 2025",
+      "center": [
+        31.1,
+        48.3
+      ],
+      "spotifyId": "5lmoGiZquqsW9sNxJQGRHn"
+    },
+    {
+      "id": "Switzerland",
+      "name": "Switzerland",
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Zoë Më - Voyage | Switzerland 🇨🇭 | Eurovision 2025",
+      "center": [
+        8.2,
+        46.8
+      ],
+      "spotifyId": "4Y0lQy86Qz9ncQwgTTS2rc"
+    },
+    {
+      "id": "Israel",
+      "name": "Israel",
+      "flagUrl": "https://flagcdn.com/w320/il.png",
+      "title": "Yuval Raphael - New Day Will Rise | Israel 🇮🇱 | Eurovision 2025",
+      "center": [
+        34.8,
+        31.0
+      ],
+      "spotifyId": "1H5GUNNCrurtyoOKbS2tT8"
+    },
+    {
+      "id": "Portugal",
+      "name": "Portugal",
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "NAPA - Deslocado | Portugal 🇵🇹 | Eurovision 2025",
+      "center": [
+        -8.2,
+        39.4
+      ],
+      "spotifyId": "31CsSZ9KlQmEu0JvWSkM3j"
+    },
+    {
+      "id": "Sweden",
+      "name": "Sweden",
+      "flagUrl": "https://flagcdn.com/w320/se.png",
+      "title": "KAJ - Bara Bada Bastu | Sweden 🇸🇪 | Eurovision 2025",
+      "center": [
+        15.2,
+        61.5
+      ],
+      "spotifyId": "2gThkoApt6B7ajBWZRLAVv"
+    },
+    {
+      "id": "Czechia",
+      "name": "Czechia",
+      "flagUrl": "https://flagcdn.com/w320/cz.png",
+      "title": "ADONXS - Kiss Kiss Goodbye | Czechia 🇨🇿 | Eurovision 2025",
+      "center": [
+        15.5,
+        49.8
+      ],
+      "spotifyId": "2ceIi1kJxozE30OURIMkfN"
+    },
+    {
+      "id": "United Kingdom",
+      "name": "United Kingdom",
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Remember Monday - What The Hell Just Happened? | United Kingdom 🇬🇧 | Eurovision 2025",
+      "center": [
+        -3.43,
+        55.37
+      ],
+      "spotifyId": "0z64zsYHTmiTyddbFJ1S6y"
+    },
+    {
+      "id": "Austria",
+      "name": "Austria",
+      "flagUrl": "https://flagcdn.com/w320/at.png",
+      "title": "JJ - Wasted Love | Austria 🇦🇹 | Eurovision 2025",
+      "center": [
+        13.3,
+        47.6
+      ],
+      "spotifyId": "321yySUTzRXUbzkRTeTzDB"
+    },
+    {
+      "id": "Denmark",
+      "name": "Denmark",
+      "flagUrl": "https://flagcdn.com/w320/dk.png",
+      "title": "Sissal - Hallucination | Denmark 🇩🇰 | Eurovision 2025",
+      "center": [
+        9.5,
+        56.2
+      ],
+      "spotifyId": "07JJ7J8JhEztiEcczioBws"
+    },
+    {
+      "id": "Netherlands",
+      "name": "Netherlands",
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "Claude - C'est La Vie | Netherlands 🇳🇱 | Eurovision 2025",
+      "center": [
+        5.2,
+        52.1
+      ],
+      "spotifyId": "0b9RNAzGtDRRMQS1cF9HXT"
+    },
+    {
+      "id": "Australia",
+      "name": "Australia",
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Go-Jo - Milkshake Man | Australia 🇦🇺 | Eurovision 2025",
+      "center": [
+        133.7,
+        -25.2
+      ],
+      "isInset": true,
+      "spotifyId": "0TWdO0ephIotzHvGuv2pGC"
+    },
+    {
+      "id": "Azerbaijan",
+      "name": "Azerbaijan",
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "Mamagama - Run With U | Azerbaijan 🇦🇿 | Eurovision 2025",
+      "center": [
+        47.5,
+        40.3
+      ],
+      "spotifyId": "4NdNOrfHfNIprOJ3Uq1l43"
+    },
+    {
+      "id": "Armenia",
+      "name": "Armenia",
+      "flagUrl": "https://flagcdn.com/w320/am.png",
+      "title": "PARG - SURVIVOR | Armenia 🇦🇲 | Eurovision 2025",
+      "center": [
+        45.0,
+        40.3
+      ],
+      "spotifyId": "4FqL1MlFQ67DipYCbmHzj8"
+    },
+    {
+      "id": "Lithuania",
+      "name": "Lithuania",
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "Katarsis - Tavo Akys | Lithuania 🇱🇹 | Eurovision 2025",
+      "center": [
+        23.9,
+        55.3
+      ],
+      "spotifyId": "1imPa2lzxmLKggLCpkBAao"
+    },
+    {
+      "id": "Poland",
+      "name": "Poland",
+      "flagUrl": "https://flagcdn.com/w320/pl.png",
+      "title": "Justyna Steczkowska - GAJA | Poland 🇵🇱 | Eurovision 2025",
+      "center": [
+        19.4,
+        52.1
+      ],
+      "spotifyId": "0wNpA89DLOyKlZZVJ7wCac"
+    },
+    {
+      "id": "Finland",
+      "name": "Finland",
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "Erika Vikman - ICH KOMME | Finland 🇫🇮 | Eurovision 2025",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "52NFoPnzxOKPIcJIQ9mb5Q"
+    },
+    {
+      "id": "Luxembourg",
+      "name": "Luxembourg",
+      "flagUrl": "https://flagcdn.com/w320/lu.png",
+      "title": "Laura Thorn - La Poupée Monte Le Son | Luxembourg 🇱🇺 | Eurovision 2025",
+      "center": [
+        6.1,
+        49.6
+      ],
+      "spotifyId": "7uUZf0d7YEFvfEspnYopXN"
+    }
+  ],
+  "Eurovision 2020s": [
+    {
+      "id": "Albania_2020",
+      "name": "Albania",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/al.png",
+      "title": "Arilena Ara - Fall from the Sky | Albania 🇦🇱 | Eurovision 2020 (Cancelled)",
+      "center": [
+        20.1,
+        41.1
+      ],
+      "spotifyId": "0Y6JVcxzdXaNwHROjoyuww"
+    },
+    {
+      "id": "Armenia_2020",
+      "name": "Armenia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/am.png",
+      "title": "Athena Manoukian - Chains on You | Armenia 🇦🇲 | Eurovision 2020 (Cancelled)",
+      "center": [
+        45.0,
+        40.0
+      ],
+      "spotifyId": "3PZQ4URHinDWFbSLi3SH1H"
+    },
+    {
+      "id": "Australia_2020",
+      "name": "Australia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Montaigne - Don't Break Me | Australia 🇦🇺 | Eurovision 2020 (Cancelled)",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "6m5AwSncp7jlXRYhs4cwOT"
+    },
+    {
+      "id": "Austria_2020",
+      "name": "Austria",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/at.png",
+      "title": "Vincent Bueno - Alive | Austria 🇦🇹 | Eurovision 2020 (Cancelled)",
+      "center": [
+        14.5,
+        47.33
+      ],
+      "spotifyId": "59940eiexBFY9heVQjk32S"
+    },
+    {
+      "id": "Azerbaijan_2020",
+      "name": "Azerbaijan",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "Efendi - Cleopatra | Azerbaijan 🇦🇿 | Eurovision 2020 (Cancelled)",
+      "center": [
+        47.5,
+        40.5
+      ],
+      "spotifyId": "6Rt5DJgi7E2wETXueJF0XM"
+    },
+    {
+      "id": "Belarus_2020",
+      "name": "Belarus",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/by.png",
+      "title": "VAL - Da vidna | Belarus 🇧🇾 | Eurovision 2020 (Cancelled)",
+      "center": [
+        28.0,
+        53.0
+      ],
+      "spotifyId": "2S82sSBWe86mi1EwNQl7kQ"
+    },
+    {
+      "id": "Belgium_2020",
+      "name": "Belgium",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Hooverphonic - Release Me | Belgium 🇧🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        4.6,
+        50.5
+      ],
+      "spotifyId": "3DxAwRSH1lhTneGRoWZyYq"
+    },
+    {
+      "id": "Bulgaria_2020",
+      "name": "Bulgaria",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/bg.png",
+      "title": "Victoria - Tears Getting Sober | Bulgaria 🇧🇬 | Eurovision 2020 (Cancelled)",
+      "center": [
+        25.0,
+        42.67
+      ],
+      "spotifyId": "3kmCuZAff2sc7KIm2OPG1z"
+    },
+    {
+      "id": "Croatia_2020",
+      "name": "Croatia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/hr.png",
+      "title": "Damir Kedžo - Divlji vjetre | Croatia 🇭🇷 | Eurovision 2020 (Cancelled)",
+      "center": [
+        15.5,
+        45.17
+      ],
+      "spotifyId": "4A73C57idTzOncdzhPwPrO"
+    },
+    {
+      "id": "Cyprus_2020",
+      "name": "Cyprus",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/cy.png",
+      "title": "Sandro - Running | Cyprus 🇨🇾 | Eurovision 2020 (Cancelled)",
+      "center": [
+        33.0,
+        35.0
+      ],
+      "spotifyId": "3EHloJuhSa7kz4rZAFKJ3j"
+    },
+    {
+      "id": "Czech Republic_2020",
+      "name": "Czech Republic",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/cz.png",
+      "title": "Benny Cristo - Kemama | Czech Republic 🇨🇿 | Eurovision 2020 (Cancelled)",
+      "center": [
+        15.5,
+        49.75
+      ],
+      "spotifyId": "3McfBBZll7Ksoi3g6GdiVs"
+    },
+    {
+      "id": "Denmark_2020",
+      "name": "Denmark",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/dk.png",
+      "title": "Ben and Tan - Yes | Denmark 🇩🇰 | Eurovision 2020 (Cancelled)",
+      "center": [
+        10.0,
+        56.0
+      ],
+      "spotifyId": "12rlcObB9ztGh7CPmY1g4u"
+    },
+    {
+      "id": "Estonia_2020",
+      "name": "Estonia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "Uku Suviste - What Love Is | Estonia 🇪🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        26.0,
+        59.0
+      ],
+      "spotifyId": "4UXWZHAS7DhRqLVxraGH1w"
+    },
+    {
+      "id": "Finland_2020",
+      "name": "Finland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "Aksel - Looking Back | Finland 🇫🇮 | Eurovision 2020 (Cancelled)",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "3zApkJiqwE4X5dKhggZksa"
+    },
+    {
+      "id": "France_2020",
+      "name": "France",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Tom Leeb - Mon alliée (The Best in Me) | France 🇫🇷 | Eurovision 2020 (Cancelled)",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "5P6BMAsTCvRGYqNVtNURnp"
+    },
+    {
+      "id": "Georgia_2020",
+      "name": "Georgia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ge.png",
+      "title": "Tornike Kipiani - Take Me as I Am | Georgia 🇬🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        43.5,
+        42.0
+      ],
+      "spotifyId": "3sXZrgz3ibbszEjYe8Ovqd"
+    },
+    {
+      "id": "Germany_2020",
+      "name": "Germany",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Ben Dolic - Violent Thing | Germany 🇩🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        10.5,
+        51.5
+      ],
+      "spotifyId": "6gSg3QpIF5yNIxbPg711Wz"
+    },
+    {
+      "id": "Greece_2020",
+      "name": "Greece",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Stefania - Supergirl | Greece 🇬🇷 | Eurovision 2020 (Cancelled)",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "3owDaGBtecJdmRtZ7esvFU"
+    },
+    {
+      "id": "Iceland_2020",
+      "name": "Iceland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/is.png",
+      "title": "Daði og Gagnamagnið - Think About Things | Iceland 🇮🇸 | Eurovision 2020 (Cancelled)",
+      "center": [
+        -19.0,
+        65.0
+      ],
+      "spotifyId": "77yGu0p7APK39lotu7CLk5"
+    },
+    {
+      "id": "Ireland_2020",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Lesley Roy - Story of My Life | Ireland 🇮🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "2yPBpQ622XzDq0BzbqpXeF"
+    },
+    {
+      "id": "Israel_2020",
+      "name": "Israel",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/il.png",
+      "title": "Eden Alene - Feker Libi | Israel 🇮🇱 | Eurovision 2020 (Cancelled)",
+      "center": [
+        34.75,
+        31.5
+      ],
+      "spotifyId": "3Ll7yobqpKBCwxxNwTWeTL"
+    },
+    {
+      "id": "Italy_2020",
+      "name": "Italy",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Diodato - Fai rumore | Italy 🇮🇹 | Eurovision 2020 (Cancelled)",
+      "center": [
+        12.83,
+        42.83
+      ],
+      "spotifyId": "5fQdJRMCHmIlYRC7s3y5GR"
+    },
+    {
+      "id": "Latvia_2020",
+      "name": "Latvia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/lv.png",
+      "title": "Samanta Tīna - Still Breathing | Latvia 🇱🇻 | Eurovision 2020 (Cancelled)",
+      "center": [
+        25.0,
+        57.0
+      ],
+      "spotifyId": "1z4UQTmCBD5THFpAnkHlJg"
+    },
+    {
+      "id": "Lithuania_2020",
+      "name": "Lithuania",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "The Roop - On Fire | Lithuania 🇱🇹 | Eurovision 2020 (Cancelled)",
+      "center": [
+        24.0,
+        55.0
+      ],
+      "spotifyId": "5TXxwRgdIS4gPjUtKwTuSb"
+    },
+    {
+      "id": "Malta_2020",
+      "name": "Malta",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/mt.png",
+      "title": "Destiny - All of My Love | Malta 🇲🇹 | Eurovision 2020 (Cancelled)",
+      "center": [
+        14.58,
+        35.92
+      ],
+      "spotifyId": "3jTOLokMmGiRW1ZWa17jmW"
+    },
+    {
+      "id": "Moldova_2020",
+      "name": "Moldova",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/md.png",
+      "title": "Natalia Gordienko - Prison | Moldova 🇲🇩 | Eurovision 2020 (Cancelled)",
+      "center": [
+        29.0,
+        47.0
+      ],
+      "spotifyId": "0Qnle48BiFwB0s4ppd93P2"
+    },
+    {
+      "id": "Netherlands_2020",
+      "name": "Netherlands",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "Jeangu Macrooy - Grow | Netherlands 🇳🇱 | Eurovision 2020 (Cancelled)",
+      "center": [
+        5.75,
+        52.5
+      ],
+      "spotifyId": "2VkQOOtMhEkd2KF2AAGVKD"
+    },
+    {
+      "id": "North Macedonia_2020",
+      "name": "North Macedonia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/mk.png",
+      "title": "Vasil - You | North Macedonia 🇲🇰 | Eurovision 2020 (Cancelled)",
+      "center": [
+        21.75,
+        41.6
+      ],
+      "spotifyId": "05U62xxQ2uILcDRPoUIWXf"
+    },
+    {
+      "id": "Norway_2020",
+      "name": "Norway",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "Ulrikke - Attention | Norway 🇳🇴 | Eurovision 2020 (Cancelled)",
+      "center": [
+        8.0,
+        62.0
+      ],
+      "spotifyId": "3Irt43mvuVwozBsllZlKCf"
+    },
+    {
+      "id": "Poland_2020",
+      "name": "Poland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/pl.png",
+      "title": "Alicja - Empires | Poland 🇵🇱 | Eurovision 2020 (Cancelled)",
+      "center": [
+        19.0,
+        52.0
+      ],
+      "spotifyId": "2unNElroipge43kWLeI4cC"
+    },
+    {
+      "id": "Portugal_2020",
+      "name": "Portugal",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "Elisa - Medo de sentir | Portugal 🇵🇹 | Eurovision 2020 (Cancelled)",
+      "center": [
+        -8.0,
+        39.5
+      ],
+      "spotifyId": "7o7ARUQHGogYASmm1hppQr"
+    },
+    {
+      "id": "Romania_2020",
+      "name": "Romania",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ro.png",
+      "title": "Roxen - Alcohol You | Romania 🇷🇴 | Eurovision 2020 (Cancelled)",
+      "center": [
+        25.0,
+        46.0
+      ],
+      "spotifyId": "3tpax8RtnwwiFw5QxLWdUY"
+    },
+    {
+      "id": "Russia_2020",
+      "name": "Russia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ru.png",
+      "title": "Little Big - Uno | Russia 🇷🇺 | Eurovision 2020 (Cancelled)",
+      "center": [
+        60.0,
+        56.0
+      ],
+      "spotifyId": "1ucAgkQ4EQDCSXQ2kEk99k"
+    },
+    {
+      "id": "San Marino_2020",
+      "name": "San Marino",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/sm.png",
+      "title": "Senhit - Freaky! | San Marino 🇸🇲 | Eurovision 2020 (Cancelled)",
+      "center": [
+        12.45,
+        43.94
+      ],
+      "spotifyId": "5M4G7eEQXIQXgfryatHaGP"
+    },
+    {
+      "id": "Serbia_2020",
+      "name": "Serbia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Hurricane - Hasta la vista | Serbia 🇷🇸 | Eurovision 2020 (Cancelled)",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "6QajQOil0F9RcOxiPQBY0M"
+    },
+    {
+      "id": "Slovenia_2020",
+      "name": "Slovenia",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/si.png",
+      "title": "Ana Soklič - Voda | Slovenia 🇸🇮 | Eurovision 2020 (Cancelled)",
+      "center": [
+        15.0,
+        46.12
+      ],
+      "spotifyId": "1ZONLdkZ9qXNtgQhGSbz5u"
+    },
+    {
+      "id": "Spain_2020",
+      "name": "Spain",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/es.png",
+      "title": "Blas Cantó - Universo | Spain 🇪🇸 | Eurovision 2020 (Cancelled)",
+      "center": [
+        -3.5,
+        40.0
+      ],
+      "spotifyId": "5CXzYfLqlNS70pt7vuVVHw"
+    },
+    {
+      "id": "Sweden_2020",
+      "name": "Sweden",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/se.png",
+      "title": "The Mamas - Move | Sweden 🇸🇪 | Eurovision 2020 (Cancelled)",
+      "center": [
+        16.0,
+        62.0
+      ],
+      "spotifyId": "19LiotxKSVs7FeVMEdHz63"
+    },
+    {
+      "id": "Switzerland_2020",
+      "name": "Switzerland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Gjon's Tears - Répondez-moi | Switzerland 🇨🇭 | Eurovision 2020 (Cancelled)",
+      "center": [
+        8.0,
+        46.83
+      ],
+      "spotifyId": "7t86YtzrVP2wptfK0QmBkW"
+    },
+    {
+      "id": "Ukraine_2020",
+      "name": "Ukraine",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "Go_A - Solovey | Ukraine 🇺🇦 | Eurovision 2020 (Cancelled)",
+      "center": [
+        32.0,
+        49.0
+      ],
+      "spotifyId": "2GfDHCfAaKLBLrLESzgnwE"
+    },
+    {
+      "id": "United Kingdom_2020",
+      "name": "United Kingdom",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "James Newman - My Last Breath | United Kingdom 🇬🇧 | Eurovision 2020 (Cancelled)",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "2geLqH4AjlLTCFjTcqU02e"
+    },
+    {
+      "id": "Italy_2021",
+      "name": "Italy",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Måneskin - Zitti e buoni | Italy 🇮🇹 | Eurovision 2021",
+      "center": [
+        12.83,
+        42.83
+      ],
+      "spotifyId": "776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "id": "France_2021",
+      "name": "France",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Barbara Pravi - Voilà | France 🇫🇷 | Eurovision 2021",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "1uAOCTevGnyKIDbgZdOCnE"
+    },
+    {
+      "id": "Switzerland_2021",
+      "name": "Switzerland",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Gjon's Tears - Tout l'univers | Switzerland 🇨🇭 | Eurovision 2021",
+      "center": [
+        8.0,
+        46.83
+      ],
+      "spotifyId": "207oYvMe7AHIHMnZPBbPV2"
+    },
+    {
+      "id": "Iceland_2021",
+      "name": "Iceland",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/is.png",
+      "title": "Daði og Gagnamagnið - 10 Years | Iceland 🇮🇸 | Eurovision 2021",
+      "center": [
+        -19.0,
+        65.0
+      ],
+      "spotifyId": "3qSyv2svKxAypN9AsWVm92"
+    },
+    {
+      "id": "Ukraine_2021",
+      "name": "Ukraine",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "Go_A - Shum | Ukraine 🇺🇦 | Eurovision 2021",
+      "center": [
+        32.0,
+        49.0
+      ],
+      "spotifyId": "29bhnde7Gvnp7rvY9zsq5S"
+    },
+    {
+      "id": "Finland_2021",
+      "name": "Finland",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "Blind Channel - Dark Side | Finland 🇫🇮 | Eurovision 2021",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "2vICdcAEc10WfqMeRxOF1I"
+    },
+    {
+      "id": "Malta_2021",
+      "name": "Malta",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/mt.png",
+      "title": "Destiny - Je me casse | Malta 🇲🇹 | Eurovision 2021",
+      "center": [
+        14.58,
+        35.92
+      ],
+      "spotifyId": "559RWsQqSe4fNUffI9P7mW"
+    },
+    {
+      "id": "Lithuania_2021",
+      "name": "Lithuania",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "The Roop - Discoteque | Lithuania 🇱🇹 | Eurovision 2021",
+      "center": [
+        24.0,
+        55.0
+      ],
+      "spotifyId": "7dMOzsTZOUtOF7W5kLN0gf"
+    },
+    {
+      "id": "Russia_2021",
+      "name": "Russia",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/ru.png",
+      "title": "Manizha - Russian Woman | Russia 🇷🇺 | Eurovision 2021",
+      "center": [
+        60.0,
+        56.0
+      ],
+      "spotifyId": "6Dz383ZHSKzWh5ZTL7aRra"
+    },
+    {
+      "id": "Greece_2021",
+      "name": "Greece",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Stefania - Last Dance | Greece 🇬🇷 | Eurovision 2021",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "0x4GMUtMeZAbti9fhDQnhj"
+    },
+    {
+      "id": "Bulgaria_2021",
+      "name": "Bulgaria",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/bg.png",
+      "title": "Victoria - Growing Up Is Getting Old | Bulgaria 🇧🇬 | Eurovision 2021",
+      "center": [
+        25.0,
+        42.67
+      ],
+      "spotifyId": "6R6i1KOZjiPYLZ8dC0cUgd"
+    },
+    {
+      "id": "Portugal_2021",
+      "name": "Portugal",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "The Black Mamba - Love Is On My Side | Portugal 🇵🇹 | Eurovision 2021",
+      "center": [
+        -8.0,
+        39.5
+      ],
+      "spotifyId": "4S4RWAA749dKyJQ5CiKEBJ"
+    },
+    {
+      "id": "Moldova_2021",
+      "name": "Moldova",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/md.png",
+      "title": "Natalia Gordienko - Sugar | Moldova 🇲🇩 | Eurovision 2021",
+      "center": [
+        29.0,
+        47.0
+      ],
+      "spotifyId": "4ajjeZhSAVz2Zp9rf9OTIL"
+    },
+    {
+      "id": "Sweden_2021",
+      "name": "Sweden",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/se.png",
+      "title": "Tusse - Voices | Sweden 🇸🇪 | Eurovision 2021",
+      "center": [
+        16.0,
+        62.0
+      ],
+      "spotifyId": "5zxZ7M4RgWZUHlMEwac8vt"
+    },
+    {
+      "id": "Serbia_2021",
+      "name": "Serbia",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Hurricane - Loco Loco | Serbia 🇷🇸 | Eurovision 2021",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "3XsC53nR7WLjc3b1CAgXhB"
+    },
+    {
+      "id": "Cyprus_2021",
+      "name": "Cyprus",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/cy.png",
+      "title": "Elena Tsagrinou - El Diablo | Cyprus 🇨🇾 | Eurovision 2021",
+      "center": [
+        33.0,
+        35.0
+      ],
+      "spotifyId": "0DGduxy7YSuqXm272C2LM6"
+    },
+    {
+      "id": "Israel_2021",
+      "name": "Israel",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/il.png",
+      "title": "Eden Alene - Set Me Free | Israel 🇮🇱 | Eurovision 2021",
+      "center": [
+        34.75,
+        31.5
+      ],
+      "spotifyId": "76TRCnbYfo9GU5DPsZ1uI9"
+    },
+    {
+      "id": "Norway_2021",
+      "name": "Norway",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "TIX - Fallen Angel | Norway 🇳🇴 | Eurovision 2021",
+      "center": [
+        8.0,
+        62.0
+      ],
+      "spotifyId": "1ISWa0THMDKFBq2UMfm02e"
+    },
+    {
+      "id": "Belgium_2021",
+      "name": "Belgium",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Hooverphonic - The Wrong Place | Belgium 🇧🇪 | Eurovision 2021",
+      "center": [
+        4.6,
+        50.5
+      ],
+      "spotifyId": "3qebp3gdFteTRN69PZ9zHu"
+    },
+    {
+      "id": "Azerbaijan_2021",
+      "name": "Azerbaijan",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "Efendi - Mata Hari | Azerbaijan 🇦🇿 | Eurovision 2021",
+      "center": [
+        47.5,
+        40.5
+      ],
+      "spotifyId": "3wuvVwA5RaifHz1uqKac8P"
+    },
+    {
+      "id": "Albania_2021",
+      "name": "Albania",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/al.png",
+      "title": "Anxhela Peristeri - Karma | Albania 🇦🇱 | Eurovision 2021",
+      "center": [
+        20.1,
+        41.1
+      ],
+      "spotifyId": "1qWmKSUCHQ4lfuB7TkK78o"
+    },
+    {
+      "id": "San Marino_2021",
+      "name": "San Marino",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/sm.png",
+      "title": "Senhit ft. Flo Rida - Adrenalina | San Marino 🇸🇲 | Eurovision 2021",
+      "center": [
+        12.45,
+        43.94
+      ],
+      "spotifyId": "4tH3ooTXwdotgBG9WQqEfp"
+    },
+    {
+      "id": "Netherlands_2021",
+      "name": "Netherlands",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "Jeangu Macrooy - Birth of a New Age | Netherlands 🇳🇱 | Eurovision 2021",
+      "center": [
+        5.75,
+        52.5
+      ],
+      "spotifyId": "5GVMXVYBFyUeq1jz8IsGRq"
+    },
+    {
+      "id": "Spain_2021",
+      "name": "Spain",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/es.png",
+      "title": "Blas Cantó - Voy a quedarme | Spain 🇪🇸 | Eurovision 2021",
+      "center": [
+        -3.5,
+        40.0
+      ],
+      "spotifyId": "1yCpJ5qmyM9UK7MXQCAyHh"
+    },
+    {
+      "id": "Germany_2021",
+      "name": "Germany",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Jendrik - I Don't Feel Hate | Germany 🇩🇪 | Eurovision 2021",
+      "center": [
+        10.5,
+        51.5
+      ],
+      "spotifyId": "3fIV058x4lJ2OqjOWuBTPh"
+    },
+    {
+      "id": "United Kingdom_2021",
+      "name": "United Kingdom",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "James Newman - Embers | United Kingdom 🇬🇧 | Eurovision 2021",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "2qDhUwR0Ubq8i60ToC2ZoM"
+    },
+    {
+      "id": "Ukraine_2022",
+      "name": "Ukraine",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "Kalush Orchestra - Stefania | Ukraine 🇺🇦 | Eurovision 2022",
+      "center": [
+        32.0,
+        49.0
+      ],
+      "spotifyId": "2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "id": "United Kingdom_2022",
+      "name": "United Kingdom",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Sam Ryder - Space Man | United Kingdom 🇬🇧 | Eurovision 2022",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "3nhGk6VnrDHy67pXvMhdPa"
+    },
+    {
+      "id": "Spain_2022",
+      "name": "Spain",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/es.png",
+      "title": "Chanel - SloMo | Spain 🇪🇸 | Eurovision 2022",
+      "center": [
+        -3.5,
+        40.0
+      ],
+      "spotifyId": "0T71AvVXY4RB65tvdIyzdO"
+    },
+    {
+      "id": "Sweden_2022",
+      "name": "Sweden",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/se.png",
+      "title": "Cornelia Jakobs - Hold Me Closer | Sweden 🇸🇪 | Eurovision 2022",
+      "center": [
+        16.0,
+        62.0
+      ],
+      "spotifyId": "6cE8kJybiuSJgKEddamFVd"
+    },
+    {
+      "id": "Serbia_2022",
+      "name": "Serbia",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Konstrakta - In Corpore Sano | Serbia 🇷🇸 | Eurovision 2022",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "1fHqVq2r9rXgLz4f1E230z"
+    },
+    {
+      "id": "Italy_2022",
+      "name": "Italy",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Mahmood & BLANCO - Brividi | Italy 🇮🇹 | Eurovision 2022",
+      "center": [
+        12.83,
+        42.83
+      ],
+      "spotifyId": "1zrGrRwIDdmQ3sXlrt2fPm"
+    },
+    {
+      "id": "Moldova_2022",
+      "name": "Moldova",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/md.png",
+      "title": "Zdob și Zdub & Advahov Brothers - Trenulețul | Moldova 🇲🇩 | Eurovision 2022",
+      "center": [
+        29.0,
+        47.0
+      ],
+      "spotifyId": "6i2ltwYkK8o1P10gL7dIbc"
+    },
+    {
+      "id": "Greece_2022",
+      "name": "Greece",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Amanda Georgiadi Tenfjord - Die Together | Greece 🇬🇷 | Eurovision 2022",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "3dFjGipWb7dC34gHGYHhIm"
+    },
+    {
+      "id": "Portugal_2022",
+      "name": "Portugal",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "MARO - Saudade, Saudade | Portugal 🇵🇹 | Eurovision 2022",
+      "center": [
+        -8.0,
+        39.5
+      ],
+      "spotifyId": "5L4FpB6p9Ckd2CvkYgXwAA"
+    },
+    {
+      "id": "Norway_2022",
+      "name": "Norway",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "Subwoolfer - Give That Wolf A Banana | Norway 🇳🇴 | Eurovision 2022",
+      "center": [
+        8.0,
+        62.0
+      ],
+      "spotifyId": "0apX90a7Ssk5rbj4fJ823a"
+    },
+    {
+      "id": "Netherlands_2022",
+      "name": "Netherlands",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "S10 - De Diepte | Netherlands 🇳🇱 | Eurovision 2022",
+      "center": [
+        5.75,
+        52.5
+      ],
+      "spotifyId": "2FYj7ZzP8l0mFzRjW6qK9G"
+    },
+    {
+      "id": "Australia_2022",
+      "name": "Australia",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Sheldon Riley - Not The Same | Australia 🇦🇺 | Eurovision 2022",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "5zI6rM30kX0v2gA2y4sHpt"
+    },
+    {
+      "id": "Azerbaijan_2022",
+      "name": "Azerbaijan",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "Nadir Rustamli - Fade To Black | Azerbaijan 🇦🇿 | Eurovision 2022",
+      "center": [
+        47.5,
+        40.5
+      ],
+      "spotifyId": "0tK2b3p4v79V01xTf4wz7n"
+    },
+    {
+      "id": "Lithuania_2022",
+      "name": "Lithuania",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "Monika Liu - Sentimentai | Lithuania 🇱🇹 | Eurovision 2022",
+      "center": [
+        24.0,
+        55.0
+      ],
+      "spotifyId": "192K0HjR5B3V3eL3nF6lYm"
+    },
+    {
+      "id": "Estonia_2022",
+      "name": "Estonia",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "Stefan - Hope | Estonia 🇪🇪 | Eurovision 2022",
+      "center": [
+        26.0,
+        59.0
+      ],
+      "spotifyId": "7nC53D6P4o9P0p5K3o8vM9"
+    },
+    {
+      "id": "Finland_2022",
+      "name": "Finland",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "The Rasmus - Jezebel | Finland 🇫🇮 | Eurovision 2022",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "2FqY4Y4M4y71G2dK0Q3rB4"
+    },
+    {
+      "id": "Poland_2022",
+      "name": "Poland",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/pl.png",
+      "title": "Ochman - River | Poland 🇵🇱 | Eurovision 2022",
+      "center": [
+        19.0,
+        52.0
+      ],
+      "spotifyId": "1Q6c1gX9P3x3W5o8cRjsdM"
+    },
+    {
+      "id": "Switzerland_2022",
+      "name": "Switzerland",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Marius Bear - Boys Do Cry | Switzerland 🇨🇭 | Eurovision 2022",
+      "center": [
+        8.0,
+        46.83
+      ],
+      "spotifyId": "1qQpjrDqWvR0oH443W4hJj"
+    },
+    {
+      "id": "Belgium_2022",
+      "name": "Belgium",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Jérémie Makiese - Miss You | Belgium 🇧🇪 | Eurovision 2022",
+      "center": [
+        4.6,
+        50.5
+      ],
+      "spotifyId": "2Yq4z2KzJ7Zz8fKjZzW6pT"
+    },
+    {
+      "id": "Armenia_2022",
+      "name": "Armenia",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/am.png",
+      "title": "Rosa Linn - Snap | Armenia 🇦🇲 | Eurovision 2022",
+      "center": [
+        45.0,
+        40.0
+      ],
+      "spotifyId": "1gwLLMgsJgP2sP1x4yvL8x"
+    },
+    {
+      "id": "Czech Republic_2022",
+      "name": "Czech Republic",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/cz.png",
+      "title": "We Are Domi - Lights Off | Czech Republic 🇨🇿 | Eurovision 2022",
+      "center": [
+        15.5,
+        49.75
+      ],
+      "spotifyId": "5gDMHiN0Jb1z6yC9K5mSjQ"
+    },
+    {
+      "id": "Romania_2022",
+      "name": "Romania",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/ro.png",
+      "title": "WRS - Llamame | Romania 🇷🇴 | Eurovision 2022",
+      "center": [
+        25.0,
+        46.0
+      ],
+      "spotifyId": "4h7mQBHhJ9zQ106V2Tj3L3"
+    },
+    {
+      "id": "France_2022",
+      "name": "France",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Alvan & Ahez - Fulenn | France 🇫🇷 | Eurovision 2022",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "03c9B7b8U94g4f0a6mP318"
+    },
+    {
+      "id": "Norway_2023",
+      "name": "Norway",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "Alessandra - Queen of Kings | Norway 🇳🇴 | Eurovision 2023",
+      "center": [
+        8.0,
+        62.0
+      ],
+      "spotifyId": "1D2lD2a1Fw1e4JkFqD8i5i"
+    },
+    {
+      "id": "Sweden_2023",
+      "name": "Sweden",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/se.png",
+      "title": "Loreen - Tattoo | Sweden 🇸🇪 | Eurovision 2023",
+      "center": [
+        16.0,
+        62.0
+      ],
+      "spotifyId": "1RjJcQf76CgM20b5bH3091"
+    },
+    {
+      "id": "Finland_2023",
+      "name": "Finland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "Käärijä - Cha Cha Cha | Finland 🇫🇮 | Eurovision 2023",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "1Qp0J1P6L25gL48aXlD7c7"
+    },
+    {
+      "id": "Israel_2023",
+      "name": "Israel",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/il.png",
+      "title": "Noa Kirel - Unicorn | Israel 🇮🇱 | Eurovision 2023",
+      "center": [
+        34.75,
+        31.5
+      ],
+      "spotifyId": "392t0l7H93q5d7tC5f1e63"
+    },
+    {
+      "id": "Italy_2023",
+      "name": "Italy",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Marco Mengoni - Due vite | Italy 🇮🇹 | Eurovision 2023",
+      "center": [
+        12.83,
+        42.83
+      ],
+      "spotifyId": "0qF7L48Wp4a7vC3yW9gX1f"
+    },
+    {
+      "id": "Ukraine_2023",
+      "name": "Ukraine",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "Tvorchi - Heart of Steel | Ukraine 🇺🇦 | Eurovision 2023",
+      "center": [
+        32.0,
+        49.0
+      ],
+      "spotifyId": "4LgUq1M7H2G6t2J61R7n4v"
+    },
+    {
+      "id": "Belgium_2023",
+      "name": "Belgium",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Gustaph - Because Of You | Belgium 🇧🇪 | Eurovision 2023",
+      "center": [
+        4.6,
+        50.5
+      ],
+      "spotifyId": "06q3tF00c8j61E9q4aY93n"
+    },
+    {
+      "id": "Estonia_2023",
+      "name": "Estonia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "Alika - Bridges | Estonia 🇪🇪 | Eurovision 2023",
+      "center": [
+        26.0,
+        59.0
+      ],
+      "spotifyId": "1qW8x0hP0q5q0M3J5zZ5jP"
+    },
+    {
+      "id": "Australia_2023",
+      "name": "Australia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Voyager - Promise | Australia 🇦🇺 | Eurovision 2023",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "77Vv7y3Gj00b1P302d12sW"
+    },
+    {
+      "id": "Czech Republic_2023",
+      "name": "Czech Republic",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/cz.png",
+      "title": "Vesna - My Sister's Crown | Czech Republic 🇨🇿 | Eurovision 2023",
+      "center": [
+        15.5,
+        49.75
+      ],
+      "spotifyId": "4S3a7l3vL63z4o2h3K3n1i"
+    },
+    {
+      "id": "Lithuania_2023",
+      "name": "Lithuania",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "Monika Linkytė - Stay | Lithuania 🇱🇹 | Eurovision 2023",
+      "center": [
+        24.0,
+        55.0
+      ],
+      "spotifyId": "2P3gXhP8qFf5j3G3d7v1k8"
+    },
+    {
+      "id": "Armenia_2023",
+      "name": "Armenia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/am.png",
+      "title": "Brunette - Future Lover | Armenia 🇦🇲 | Eurovision 2023",
+      "center": [
+        45.0,
+        40.0
+      ],
+      "spotifyId": "4W4p1N1sVvH7n4Z5L3M42H"
+    },
+    {
+      "id": "Slovenia_2023",
+      "name": "Slovenia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/si.png",
+      "title": "Joker Out - Carpe Diem | Slovenia 🇸🇮 | Eurovision 2023",
+      "center": [
+        15.0,
+        46.12
+      ],
+      "spotifyId": "3f7o2h7Rj5c5Yv1Q6Q6ZzQ"
+    },
+    {
+      "id": "Croatia_2023",
+      "name": "Croatia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/hr.png",
+      "title": "Let 3 - Mama ŠČ! | Croatia 🇭🇷 | Eurovision 2023",
+      "center": [
+        15.5,
+        45.17
+      ],
+      "spotifyId": "53513w7C6G1X5k5X5z8J7e"
+    },
+    {
+      "id": "Switzerland_2023",
+      "name": "Switzerland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Remo Forrer - Watergun | Switzerland 🇨🇭 | Eurovision 2023",
+      "center": [
+        8.0,
+        46.83
+      ],
+      "spotifyId": "6uF0H9j5p2e3t5X5w4L8h8"
+    },
+    {
+      "id": "Cyprus_2023",
+      "name": "Cyprus",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/cy.png",
+      "title": "Andrew Lambrou - Break A Broken Heart | Cyprus 🇨🇾 | Eurovision 2023",
+      "center": [
+        33.0,
+        35.0
+      ],
+      "spotifyId": "2Z3N1yX6R3o9z0Z6v2u5Y3"
+    },
+    {
+      "id": "Poland_2023",
+      "name": "Poland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/pl.png",
+      "title": "Blanka - Solo | Poland 🇵🇱 | Eurovision 2023",
+      "center": [
+        19.0,
+        52.0
+      ],
+      "spotifyId": "0o6p1m0d2q0g3y9i8j4w1h"
+    },
+    {
+      "id": "Serbia_2023",
+      "name": "Serbia",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Luke Black - Samo mi se spava | Serbia 🇷🇸 | Eurovision 2023",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "1r8m3R4a1j8d7l0x3z6u5p"
+    },
+    {
+      "id": "Portugal_2023",
+      "name": "Portugal",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "Mimicat - Ai Coração | Portugal 🇵🇹 | Eurovision 2023",
+      "center": [
+        -8.0,
+        39.5
+      ],
+      "spotifyId": "4B4v7d3l3Z0t6k1m3y2q4w"
+    },
+    {
+      "id": "France_2023",
+      "name": "France",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "La Zarra - Évidemment | France 🇫🇷 | Eurovision 2023",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "72oM1y3Z5q0r1x8l0e7y3G"
+    },
+    {
+      "id": "Albania_2023",
+      "name": "Albania",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/al.png",
+      "title": "Albina & Familja Kelmendi - Duje | Albania 🇦🇱 | Eurovision 2023",
+      "center": [
+        20.1,
+        41.1
+      ],
+      "spotifyId": "71V7h0j0v2v8q5p8x4h8e2"
+    },
+    {
+      "id": "Germany_2023",
+      "name": "Germany",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Lord of the Lost - Blood & Glitter | Germany 🇩🇪 | Eurovision 2023",
+      "center": [
+        10.5,
+        51.5
+      ],
+      "spotifyId": "6w8h3b3m6l4h2p4q6f8j9c"
+    },
+    {
+      "id": "Australia_2024",
+      "name": "Australia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Electric Fields - One Milkali (One Blood) | Australia 🇦🇺 | Eurovision 2024",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "6aJ2P2b7u5h2q0n4f2k6u2"
+    },
+    {
+      "id": "Austria_2024",
+      "name": "Austria",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/at.png",
+      "title": "Kaleen - We Will Rave | Austria 🇦🇹 | Eurovision 2024",
+      "center": [
+        14.5,
+        47.33
+      ],
+      "spotifyId": "7dG3j4b8h4e2d3a4g6h3d6"
+    },
+    {
+      "id": "Azerbaijan_2024",
+      "name": "Azerbaijan",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "FAHREE feat. Ilkin Dovlatov - Özünlə Apar | Azerbaijan 🇦🇿 | Eurovision 2024",
+      "center": [
+        47.5,
+        40.5
+      ],
+      "spotifyId": "2g3r2d4g2h8j6e2e4c5b7a"
+    },
+    {
+      "id": "Belgium_2024",
+      "name": "Belgium",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/be.png",
+      "title": "Mustii - Before The Party's Over | Belgium 🇧🇪 | Eurovision 2024",
+      "center": [
+        4.6,
+        50.5
+      ],
+      "spotifyId": "1e5t3g4h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Croatia_2024",
+      "name": "Croatia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/hr.png",
+      "title": "Baby Lasagna - Rim Tim Tagi Dim | Croatia 🇭🇷 | Eurovision 2024",
+      "center": [
+        15.5,
+        45.17
+      ],
+      "spotifyId": "2m4j4c6h8j0f3e2d1b5a7c"
+    },
+    {
+      "id": "Cyprus_2024",
+      "name": "Cyprus",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/cy.png",
+      "title": "Silia Kapsis - Liar | Cyprus 🇨🇾 | Eurovision 2024",
+      "center": [
+        33.0,
+        35.0
+      ],
+      "spotifyId": "3f4j6g8h4e2e0d1c3b5a7f"
+    },
+    {
+      "id": "Czechia_2024",
+      "name": "Czechia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/cz.png",
+      "title": "Aiko - Pedestal | Czechia 🇨🇿 | Eurovision 2024",
+      "center": [
+        15.5,
+        49.75
+      ],
+      "spotifyId": "4e0t6g8h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Denmark_2024",
+      "name": "Denmark",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/dk.png",
+      "title": "SABA - SAND | Denmark 🇩🇰 | Eurovision 2024",
+      "center": [
+        10.0,
+        56.0
+      ],
+      "spotifyId": "5h3j8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Estonia_2024",
+      "name": "Estonia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "5MIINUST x Puuluup - (nendest) narkootikumidest ei tea me (küll) midagi | Estonia 🇪🇪 | Eurovision 2024",
+      "center": [
+        26.0,
+        59.0
+      ],
+      "spotifyId": "6t4j8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Finland_2024",
+      "name": "Finland",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fi.png",
+      "title": "Windows95man - No Rules! | Finland 🇫🇮 | Eurovision 2024",
+      "center": [
+        26.0,
+        64.0
+      ],
+      "spotifyId": "7q7j8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "France_2024",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Slimane - Mon Amour | France 🇫🇷 | Eurovision 2024",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "8r8h8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Georgia_2024",
+      "name": "Georgia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ge.png",
+      "title": "Nutsa Buzaladze - Firefighter | Georgia 🇬🇪 | Eurovision 2024",
+      "center": [
+        43.5,
+        42.0
+      ],
+      "spotifyId": "9y9t8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Germany_2024",
+      "name": "Germany",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Isaak - Always On The Run | Germany 🇩🇪 | Eurovision 2024",
+      "center": [
+        10.5,
+        51.5
+      ],
+      "spotifyId": "0w0u8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Greece_2024",
+      "name": "Greece",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Marina Satti - ZARI | Greece 🇬🇷 | Eurovision 2024",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "1e1u8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Iceland_2024",
+      "name": "Iceland",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/is.png",
+      "title": "Hera Björk - Scared of Heights | Iceland 🇮🇸 | Eurovision 2024",
+      "center": [
+        -19.0,
+        65.0
+      ],
+      "spotifyId": "2t2i8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Ireland_2024",
+      "name": "Ireland",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Bambie Thug - Doomsday Blue | Ireland 🇮🇪 | Eurovision 2024",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "3b3a8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Israel_2024",
+      "name": "Israel",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/il.png",
+      "title": "Eden Golan - Hurricane | Israel 🇮🇱 | Eurovision 2024",
+      "center": [
+        34.75,
+        31.5
+      ],
+      "spotifyId": "4c4b8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Italy_2024",
+      "name": "Italy",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "title": "Angelina Mango - La noia | Italy 🇮🇹 | Eurovision 2024",
+      "center": [
+        12.83,
+        42.83
+      ],
+      "spotifyId": "5e5f8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Latvia_2024",
+      "name": "Latvia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/lv.png",
+      "title": "Dons - Hollow | Latvia 🇱🇻 | Eurovision 2024",
+      "center": [
+        25.0,
+        57.0
+      ],
+      "spotifyId": "6f6g8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Lithuania_2024",
+      "name": "Lithuania",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/lt.png",
+      "title": "Silvester Belt - Luktelk | Lithuania 🇱🇹 | Eurovision 2024",
+      "center": [
+        24.0,
+        55.0
+      ],
+      "spotifyId": "7g7h8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Luxembourg_2024",
+      "name": "Luxembourg",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/lu.png",
+      "title": "TALI - Fighter | Luxembourg 🇱🇺 | Eurovision 2024",
+      "center": [
+        6.1,
+        49.6
+      ],
+      "spotifyId": "8h8i8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Malta_2024",
+      "name": "Malta",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/mt.png",
+      "title": "Sarah Bonnici - Loop | Malta 🇲🇹 | Eurovision 2024",
+      "center": [
+        14.58,
+        35.92
+      ],
+      "spotifyId": "9i9j8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Moldova_2024",
+      "name": "Moldova",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/md.png",
+      "title": "Natalia Barbu - In The Middle | Moldova 🇲🇩 | Eurovision 2024",
+      "center": [
+        29.0,
+        47.0
+      ],
+      "spotifyId": "0j0k8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Netherlands_2024",
+      "name": "Netherlands",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "Joost Klein - Europapa | Netherlands 🇳🇱 | Eurovision 2024",
+      "center": [
+        5.75,
+        52.5
+      ],
+      "spotifyId": "1l1m8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Norway_2024",
+      "name": "Norway",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/no.png",
+      "title": "Gåte - Ulveham | Norway 🇳🇴 | Eurovision 2024",
+      "center": [
+        8.0,
+        62.0
+      ],
+      "spotifyId": "2n2o8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Poland_2024",
+      "name": "Poland",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/pl.png",
+      "title": "Luna - The Tower | Poland 🇵🇱 | Eurovision 2024",
+      "center": [
+        19.0,
+        52.0
+      ],
+      "spotifyId": "3p3q8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Portugal_2024",
+      "name": "Portugal",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/pt.png",
+      "title": "Iolanda - Grito | Portugal 🇵🇹 | Eurovision 2024",
+      "center": [
+        -8.0,
+        39.5
+      ],
+      "spotifyId": "4r4s8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "San Marino_2024",
+      "name": "San Marino",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/sm.png",
+      "title": "Megara - 11:11 | San Marino 🇸🇲 | Eurovision 2024",
+      "center": [
+        12.45,
+        43.94
+      ],
+      "spotifyId": "5s5u8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Serbia_2024",
+      "name": "Serbia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/rs.png",
+      "title": "Teya Dora - Ramonda | Serbia 🇷🇸 | Eurovision 2024",
+      "center": [
+        21.0,
+        44.0
+      ],
+      "spotifyId": "6t6v8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Slovenia_2024",
+      "name": "Slovenia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/si.png",
+      "title": "Raiven - Veronika | Slovenia 🇸🇮 | Eurovision 2024",
+      "center": [
+        15.0,
+        46.12
+      ],
+      "spotifyId": "7u7w8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Spain_2024",
+      "name": "Spain",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/es.png",
+      "title": "Nebulossa - ZORRA | Spain 🇪🇸 | Eurovision 2024",
+      "center": [
+        -3.5,
+        40.0
+      ],
+      "spotifyId": "8v8x8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Switzerland_2024",
+      "name": "Switzerland",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ch.png",
+      "title": "Nemo - The Code | Switzerland 🇨🇭 | Eurovision 2024",
+      "center": [
+        8.0,
+        46.83
+      ],
+      "spotifyId": "9w9y8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Ukraine_2024",
+      "name": "Ukraine",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ua.png",
+      "title": "alyona alyona & Jerry Heil - Teresa & Maria | Ukraine 🇺🇦 | Eurovision 2024",
+      "center": [
+        32.0,
+        49.0
+      ],
+      "spotifyId": "0z0a8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "United Kingdom_2024",
+      "name": "United Kingdom",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Olly Alexander - Dizzy | United Kingdom 🇬🇧 | Eurovision 2024",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "1a1b8g0h4e2e9d1c3b5a7f"
+    }
+  ]
+}
