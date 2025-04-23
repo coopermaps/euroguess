@@ -32,381 +32,6 @@
         46.1
       ],
       "spotifyId": "104QgPphJUPg86IWYnAnL7"
-    },
-    {
-      "id": "Estonia",
-      "name": "Estonia",
-      "flagUrl": "https://flagcdn.com/w320/ee.png",
-      "title": "Tommy Cash - Espresso Macchiato | Estonia 🇪🇪 | Eurovision 2025",
-      "center": [
-        25.0,
-        59.0
-      ],
-      "spotifyId": "3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "id": "France",
-      "name": "France",
-      "flagUrl": "https://flagcdn.com/w320/fr.png",
-      "title": "Louane - maman | France 🇫🇷 | Eurovision 2025",
-      "center": [
-        2.2,
-        46.2
-      ],
-      "spotifyId": "1iJ9cSEWYQsd2M7ROFyIZx"
-    },
-    {
-      "id": "Malta",
-      "name": "Malta",
-      "flagUrl": "https://flagcdn.com/w320/mt.png",
-      "title": "Miriana Conte - SERVING | Malta 🇲🇹 | Eurovision 2025",
-      "center": [
-        14.5,
-        35.9
-      ],
-      "spotifyId": "3RHRXSKaQ6oBS29iiDI3as"
-    },
-    {
-      "id": "Greece",
-      "name": "Greece",
-      "flagUrl": "https://flagcdn.com/w320/gr.png",
-      "title": "Klavdia - Asteromáta | Greece 🇬🇷 | Eurovision 2025",
-      "center": [
-        21.8,
-        39.0
-      ],
-      "spotifyId": "2aE2SRm4QraCuDBNnBsRIz"
-    },
-    {
-      "id": "Georgia",
-      "name": "Georgia",
-      "flagUrl": "https://flagcdn.com/w320/ge.png",
-      "title": "Mariam Shengelia - Freedom | Georgia 🇬🇪 | Eurovision 2025",
-      "center": [
-        43.5,
-        42.0
-      ],
-      "spotifyId": "5mjD2U1w6217p73LC9MEht"
-    },
-    {
-      "id": "Spain",
-      "name": "Spain",
-      "flagUrl": "https://flagcdn.com/w320/es.png",
-      "title": "Melody - ESA DIVA | Spain 🇪🇸 | Eurovision 2025",
-      "center": [
-        -3.7,
-        40.4
-      ],
-      "spotifyId": "5MOZUwlA3LPWFVhHNxWCfh"
-    },
-    {
-      "id": "Italy",
-      "name": "Italy",
-      "flagUrl": "https://flagcdn.com/w320/it.png",
-      "title": "Lucio Corsi - Volevo Essere Un Duro | Italy 🇮🇹 | Eurovision 2025",
-      "center": [
-        12.5,
-        42.5
-      ],
-      "spotifyId": "5sFbAYktReH4AJbATsGAw8"
-    },
-    {
-      "id": "San Marino",
-      "name": "San Marino",
-      "flagUrl": "https://flagcdn.com/w320/sm.png",
-      "title": "Gabry Ponte - Tutta L'Italia | San Marino 🇸🇲 | Eurovision 2025",
-      "center": [
-        12.5,
-        43.9
-      ],
-      "spotifyId": "0h3w9Sr1gToqxA9gIs5O39"
-    },
-    {
-      "id": "Iceland",
-      "name": "Iceland",
-      "flagUrl": "https://flagcdn.com/w320/is.png",
-      "title": "VÆB - RÓA | Iceland 🇮🇸 | Eurovision 2025",
-      "center": [
-        -19.0,
-        65.0
-      ],
-      "spotifyId": "1YnOwWvV1bQevRqJMCbYJz"
-    },
-    {
-      "id": "Croatia",
-      "name": "Croatia",
-      "flagUrl": "https://flagcdn.com/w320/hr.png",
-      "title": "Marko Bošnjak - Poison Cake | Croatia 🇭🇷 | Eurovision 2025",
-      "center": [
-        15.2,
-        45.1
-      ],
-      "spotifyId": "0jtkkJ6Q0IB5iw5obHJDVl"
-    },
-    {
-      "id": "Ireland",
-      "name": "Ireland",
-      "flagUrl": "https://flagcdn.com/w320/ie.png",
-      "title": "EMMY - Laika Party | Ireland 🇮🇪 | Eurovision 2025",
-      "center": [
-        -8.2,
-        53.4
-      ],
-      "spotifyId": "5PZnJ8GErvuiCo7wKKtpKo"
-    },
-    {
-      "id": "Latvia",
-      "name": "Latvia",
-      "flagUrl": "https://flagcdn.com/w320/lv.png",
-      "title": "Tautumeitas - Bur Man Laimi | Latvia 🇱🇻 | Eurovision 2025",
-      "center": [
-        24.6,
-        56.8
-      ],
-      "spotifyId": "6oGrwxJItvG261mLBk6DmK"
-    },
-    {
-      "id": "Norway",
-      "name": "Norway",
-      "flagUrl": "https://flagcdn.com/w320/no.png",
-      "title": "Kyle Alessandro - Lighter | Norway 🇳🇴 | Eurovision 2025",
-      "center": [
-        8.4,
-        60.5
-      ],
-      "spotifyId": "0AMoopn68aGAAaJ9qFXPnX"
-    },
-    {
-      "id": "Cyprus",
-      "name": "Cyprus",
-      "flagUrl": "https://flagcdn.com/w320/cy.png",
-      "title": "Theo Evan - Shh | Cyprus 🇨🇾 | Eurovision 2025",
-      "center": [
-        33.4,
-        35.2
-      ],
-      "spotifyId": "3mwqwFYIrO8hE3YBN8gk14"
-    },
-    {
-      "id": "Belgium",
-      "name": "Belgium",
-      "flagUrl": "https://flagcdn.com/w320/be.png",
-      "title": "Red Sebastian - Strobe Lights | Belgium 🇧🇪 | Eurovision 2025",
-      "center": [
-        4.6,
-        50.6
-      ],
-      "spotifyId": "0Tx2AeVKiYQjk8u9p4j6kV"
-    },
-    {
-      "id": "Germany",
-      "name": "Germany",
-      "flagUrl": "https://flagcdn.com/w320/de.png",
-      "title": "Abor & Tynna - Baller | Germany 🇩🇪 | Eurovision 2025",
-      "center": [
-        10.4,
-        51.1
-      ],
-      "spotifyId": "4kbkYbhWNiSJraySknB4hD"
-    },
-    {
-      "id": "Montenegro",
-      "name": "Montenegro",
-      "flagUrl": "https://flagcdn.com/w320/me.png",
-      "title": "Nina Žižić - Dobrodošli | Montenegro 🇲🇪 | Eurovision 2025",
-      "center": [
-        19.2,
-        42.8
-      ],
-      "spotifyId": "5UspyMgNKogZTVNc9Ptl9P"
-    },
-    {
-      "id": "Ukraine",
-      "name": "Ukraine",
-      "flagUrl": "https://flagcdn.com/w320/ua.png",
-      "title": "Ziferblat - Bird of Pray | Ukraine 🇺🇦 | Eurovision 2025",
-      "center": [
-        31.1,
-        48.3
-      ],
-      "spotifyId": "5lmoGiZquqsW9sNxJQGRHn"
-    },
-    {
-      "id": "Switzerland",
-      "name": "Switzerland",
-      "flagUrl": "https://flagcdn.com/w320/ch.png",
-      "title": "Zoë Më - Voyage | Switzerland 🇨🇭 | Eurovision 2025",
-      "center": [
-        8.2,
-        46.8
-      ],
-      "spotifyId": "4Y0lQy86Qz9ncQwgTTS2rc"
-    },
-    {
-      "id": "Israel",
-      "name": "Israel",
-      "flagUrl": "https://flagcdn.com/w320/il.png",
-      "title": "Yuval Raphael - New Day Will Rise | Israel 🇮🇱 | Eurovision 2025",
-      "center": [
-        34.8,
-        31.0
-      ],
-      "spotifyId": "1H5GUNNCrurtyoOKbS2tT8"
-    },
-    {
-      "id": "Portugal",
-      "name": "Portugal",
-      "flagUrl": "https://flagcdn.com/w320/pt.png",
-      "title": "NAPA - Deslocado | Portugal 🇵🇹 | Eurovision 2025",
-      "center": [
-        -8.2,
-        39.4
-      ],
-      "spotifyId": "31CsSZ9KlQmEu0JvWSkM3j"
-    },
-    {
-      "id": "Sweden",
-      "name": "Sweden",
-      "flagUrl": "https://flagcdn.com/w320/se.png",
-      "title": "KAJ - Bara Bada Bastu | Sweden 🇸🇪 | Eurovision 2025",
-      "center": [
-        15.2,
-        61.5
-      ],
-      "spotifyId": "2gThkoApt6B7ajBWZRLAVv"
-    },
-    {
-      "id": "Czechia",
-      "name": "Czechia",
-      "flagUrl": "https://flagcdn.com/w320/cz.png",
-      "title": "ADONXS - Kiss Kiss Goodbye | Czechia 🇨🇿 | Eurovision 2025",
-      "center": [
-        15.5,
-        49.8
-      ],
-      "spotifyId": "2ceIi1kJxozE30OURIMkfN"
-    },
-    {
-      "id": "United Kingdom",
-      "name": "United Kingdom",
-      "flagUrl": "https://flagcdn.com/w320/gb.png",
-      "title": "Remember Monday - What The Hell Just Happened? | United Kingdom 🇬🇧 | Eurovision 2025",
-      "center": [
-        -3.43,
-        55.37
-      ],
-      "spotifyId": "0z64zsYHTmiTyddbFJ1S6y"
-    },
-    {
-      "id": "Austria",
-      "name": "Austria",
-      "flagUrl": "https://flagcdn.com/w320/at.png",
-      "title": "JJ - Wasted Love | Austria 🇦🇹 | Eurovision 2025",
-      "center": [
-        13.3,
-        47.6
-      ],
-      "spotifyId": "321yySUTzRXUbzkRTeTzDB"
-    },
-    {
-      "id": "Denmark",
-      "name": "Denmark",
-      "flagUrl": "https://flagcdn.com/w320/dk.png",
-      "title": "Sissal - Hallucination | Denmark 🇩🇰 | Eurovision 2025",
-      "center": [
-        9.5,
-        56.2
-      ],
-      "spotifyId": "07JJ7J8JhEztiEcczioBws"
-    },
-    {
-      "id": "Netherlands",
-      "name": "Netherlands",
-      "flagUrl": "https://flagcdn.com/w320/nl.png",
-      "title": "Claude - C'est La Vie | Netherlands 🇳🇱 | Eurovision 2025",
-      "center": [
-        5.2,
-        52.1
-      ],
-      "spotifyId": "0b9RNAzGtDRRMQS1cF9HXT"
-    },
-    {
-      "id": "Australia",
-      "name": "Australia",
-      "flagUrl": "https://flagcdn.com/w320/au.png",
-      "title": "Go-Jo - Milkshake Man | Australia 🇦🇺 | Eurovision 2025",
-      "center": [
-        133.7,
-        -25.2
-      ],
-      "isInset": true,
-      "spotifyId": "0TWdO0ephIotzHvGuv2pGC"
-    },
-    {
-      "id": "Azerbaijan",
-      "name": "Azerbaijan",
-      "flagUrl": "https://flagcdn.com/w320/az.png",
-      "title": "Mamagama - Run With U | Azerbaijan 🇦🇿 | Eurovision 2025",
-      "center": [
-        47.5,
-        40.3
-      ],
-      "spotifyId": "4NdNOrfHfNIprOJ3Uq1l43"
-    },
-    {
-      "id": "Armenia",
-      "name": "Armenia",
-      "flagUrl": "https://flagcdn.com/w320/am.png",
-      "title": "PARG - SURVIVOR | Armenia 🇦🇲 | Eurovision 2025",
-      "center": [
-        45.0,
-        40.3
-      ],
-      "spotifyId": "4FqL1MlFQ67DipYCbmHzj8"
-    },
-    {
-      "id": "Lithuania",
-      "name": "Lithuania",
-      "flagUrl": "https://flagcdn.com/w320/lt.png",
-      "title": "Katarsis - Tavo Akys | Lithuania 🇱🇹 | Eurovision 2025",
-      "center": [
-        23.9,
-        55.3
-      ],
-      "spotifyId": "1imPa2lzxmLKggLCpkBAoo"
-    },
-    {
-      "id": "Poland",
-      "name": "Poland",
-      "flagUrl": "https://flagcdn.com/w320/pl.png",
-      "title": "Justyna Steczkowska - GAJA | Poland 🇵🇱 | Eurovision 2025",
-      "center": [
-        19.4,
-        52.1
-      ],
-      "spotifyId": "0wNpA89DLOyKlZZVJ7wCac"
-    },
-    {
-      "id": "Finland",
-      "name": "Finland",
-      "flagUrl": "https://flagcdn.com/w320/fi.png",
-      "title": "Erika Vikman - ICH KOMME | Finland 🇫🇮 | Eurovision 2025",
-      "center": [
-        26.0,
-        64.0
-      ],
-      "spotifyId": "52NFoPnzxOKPIcJIQ9mb5Q"
-    },
-    {
-      "id": "Luxembourg",
-      "name": "Luxembourg",
-      "flagUrl": "https://flagcdn.com/w320/lu.png",
-      "title": "Laura Thorn - La Poupée Monte Le Son | Luxembourg 🇱🇺 | Eurovision 2025",
-      "center": [
-        6.1,
-        49.6
-      ],
-      "spotifyId": "7uUZf0d7YEFvfEspnYopXN"
     }
   ],
   "Eurovision 2020s": [
@@ -613,6 +238,18 @@
         51.5
       ],
       "spotifyId": "6gSg3QpIF5yNIxbPg711Wz"
+    },
+    {
+      "id": "Greece_2020",
+      "name": "Greece",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Stefania - Supergirl | Greece 🇬🇷 | Eurovision 2020 (Cancelled)",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "3owDaGBtecJdmRtZ7esvFU"
     },
     {
       "id": "Iceland_2020",
@@ -927,6 +564,18 @@
       "spotifyId": "207oYvMe7AHIHMnZPBbPV2"
     },
     {
+      "id": "Iceland_2021",
+      "name": "Iceland",
+      "year": 2021,
+      "flagUrl": "https://flagcdn.com/w320/is.png",
+      "title": "Daði og Gagnamagnið - 10 Years | Iceland 🇮🇸 | Eurovision 2021",
+      "center": [
+        -19.0,
+        65.0
+      ],
+      "spotifyId": "3qSyv2svKxAypN9AsWVm92"
+    },
+    {
       "id": "Ukraine_2021",
       "name": "Ukraine",
       "year": 2021,
@@ -1092,7 +741,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "1ISMa0THMDKFBq2UMfm02e"
+      "spotifyId": "1ISWa0THMDKFBq2UMfm02e"
     },
     {
       "id": "Belgium_2021",
@@ -1236,7 +885,7 @@
         16.0,
         62.0
       ],
-      "spotifyId": "697bFWgzBRm6bmnYWd8GyD"
+      "spotifyId": "6cE8kJybiuSJgKEddamFVd"
     },
     {
       "id": "Serbia_2022",
@@ -1248,7 +897,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "1JaOUMmaSZlWfONvT4HTlg"
+      "spotifyId": "1fHqVq2r9rXgLz4f1E230z"
     },
     {
       "id": "Italy_2022",
@@ -1260,7 +909,31 @@
         12.83,
         42.83
       ],
-      "spotifyId": "1ZMGp9MTXbtAPvcKa0U3zS"
+      "spotifyId": "1zrGrRwIDdmQ3sXlrt2fPm"
+    },
+    {
+      "id": "Moldova_2022",
+      "name": "Moldova",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/md.png",
+      "title": "Zdob și Zdub & Advahov Brothers - Trenulețul | Moldova 🇲🇩 | Eurovision 2022",
+      "center": [
+        29.0,
+        47.0
+      ],
+      "spotifyId": "6i2ltwYkK8o1P10gL7dIbc"
+    },
+    {
+      "id": "Greece_2022",
+      "name": "Greece",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/gr.png",
+      "title": "Amanda Georgiadi Tenfjord - Die Together | Greece 🇬🇷 | Eurovision 2022",
+      "center": [
+        22.0,
+        39.0
+      ],
+      "spotifyId": "3dFjGipWb7dC34gHGYHhIm"
     },
     {
       "id": "Portugal_2022",
@@ -1272,7 +945,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "4S4Amrpr631M16IIXqRk73"
+      "spotifyId": "5L4FpB6p9Ckd2CvkYgXwAA"
     },
     {
       "id": "Norway_2022",
@@ -1284,7 +957,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "50Cf2eYv8zT3v2HAkwhIiL"
+      "spotifyId": "0apX90a7Ssk5rbj4fJ823a"
     },
     {
       "id": "Netherlands_2022",
@@ -1296,7 +969,7 @@
         5.75,
         52.5
       ],
-      "spotifyId": "7uQ7e7nzbtyX87eIYHpj6Z"
+      "spotifyId": "2FYj7ZzP8l0mFzRjW6qK9G"
     },
     {
       "id": "Australia_2022",
@@ -1308,7 +981,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "27ThQIsofXro6xEz3SzQWi"
+      "spotifyId": "5zI6rM30kX0v2gA2y4sHpt"
     },
     {
       "id": "Azerbaijan_2022",
@@ -1320,7 +993,7 @@
         47.5,
         40.5
       ],
-      "spotifyId": "7aX4w6c7gSqbTBoU8g2lnm"
+      "spotifyId": "0tK2b3p4v79V01xTf4wz7n"
     },
     {
       "id": "Lithuania_2022",
@@ -1332,7 +1005,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "7LjVxb9LIlQFTdk87SlXme"
+      "spotifyId": "192K0HjR5B3V3eL3nF6lYm"
     },
     {
       "id": "Estonia_2022",
@@ -1344,7 +1017,7 @@
         26.0,
         59.0
       ],
-      "spotifyId": "6sSq38pmQxG0YuvbipDoEi"
+      "spotifyId": "7nC53D6P4o9P0p5K3o8vM9"
     },
     {
       "id": "Finland_2022",
@@ -1356,7 +1029,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "2NehRqeFiEGV72lFfqJGUn"
+      "spotifyId": "2FqY4Y4M4y71G2dK0Q3rB4"
     },
     {
       "id": "Poland_2022",
@@ -1368,7 +1041,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "2fSz6MBKMPjOApUhGYfPid"
+      "spotifyId": "1Q6c1gX9P3x3W5o8cRjsdM"
     },
     {
       "id": "Switzerland_2022",
@@ -1380,7 +1053,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "5A3JxIX04W5Ttu6Rxy5tWW"
+      "spotifyId": "1qQpjrDqWvR0oH443W4hJj"
     },
     {
       "id": "Belgium_2022",
@@ -1392,7 +1065,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "4VgSGm7CroAlCCt9GKQ75Z"
+      "spotifyId": "2Yq4z2KzJ7Zz8fKjZzW6pT"
     },
     {
       "id": "Armenia_2022",
@@ -1404,7 +1077,7 @@
         45.0,
         40.0
       ],
-      "spotifyId": "5hx7w26Zi3zafMgvMTUqF6"
+      "spotifyId": "1gwLLMgsJgP2sP1x4yvL8x"
     },
     {
       "id": "Czech Republic_2022",
@@ -1416,7 +1089,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "0tOKpglJb9cza4WdTtxsv7"
+      "spotifyId": "5gDMHiN0Jb1z6yC9K5mSjQ"
     },
     {
       "id": "Romania_2022",
@@ -1428,7 +1101,7 @@
         25.0,
         46.0
       ],
-      "spotifyId": "3n9qn38IhqkC7DcdIRaM9q"
+      "spotifyId": "4h7mQBHhJ9zQ106V2Tj3L3"
     },
     {
       "id": "France_2022",
@@ -1440,7 +1113,7 @@
         2.0,
         46.0
       ],
-      "spotifyId": "43UejonUIN69O8NNAFRu5X"
+      "spotifyId": "03c9B7b8U94g4f0a6mP318"
     },
     {
       "id": "Norway_2023",
@@ -1452,7 +1125,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "14LdhxElpZS0rKVV4nxtdA"
+      "spotifyId": "1D2lD2a1Fw1e4JkFqD8i5i"
     },
     {
       "id": "Sweden_2023",
@@ -1464,7 +1137,7 @@
         16.0,
         62.0
       ],
-      "spotifyId": "1DmW5Ep6ywYwxc2HMT5BG6"
+      "spotifyId": "1RjJcQf76CgM20b5bH3091"
     },
     {
       "id": "Finland_2023",
@@ -1476,7 +1149,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "5RX8T3EoTuXcybAxe6oPAw"
+      "spotifyId": "1Qp0J1P6L25gL48aXlD7c7"
     },
     {
       "id": "Israel_2023",
@@ -1488,7 +1161,7 @@
         34.75,
         31.5
       ],
-      "spotifyId": "6dUregFbvUNqHP5nphqesK"
+      "spotifyId": "392t0l7H93q5d7tC5f1e63"
     },
     {
       "id": "Italy_2023",
@@ -1500,7 +1173,7 @@
         12.83,
         42.83
       ],
-      "spotifyId": "4eI0ncpnZuv4A3ssTJRSDY"
+      "spotifyId": "0qF7L48Wp4a7vC3yW9gX1f"
     },
     {
       "id": "Ukraine_2023",
@@ -1512,7 +1185,7 @@
         32.0,
         49.0
       ],
-      "spotifyId": "155yInH5aDNEI1MkcX6NNk"
+      "spotifyId": "4LgUq1M7H2G6t2J61R7n4v"
     },
     {
       "id": "Belgium_2023",
@@ -1524,7 +1197,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "320jqrATpl9762bCQkmLDf"
+      "spotifyId": "06q3tF00c8j61E9q4aY93n"
     },
     {
       "id": "Estonia_2023",
@@ -1536,7 +1209,7 @@
         26.0,
         59.0
       ],
-      "spotifyId": "3pvzk44kwy8u46wtglCKzd"
+      "spotifyId": "1qW8x0hP0q5q0M3J5zZ5jP"
     },
     {
       "id": "Australia_2023",
@@ -1548,7 +1221,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "0LeK6Ol47og0WdGwKegNUL"
+      "spotifyId": "77Vv7y3Gj00b1P302d12sW"
     },
     {
       "id": "Czech Republic_2023",
@@ -1560,7 +1233,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "59md7R7fW5LjSbZITzzn3n"
+      "spotifyId": "4S3a7l3vL63z4o2h3K3n1i"
     },
     {
       "id": "Lithuania_2023",
@@ -1572,7 +1245,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "6ouoSKOsxFa7wV6wMJHAOy"
+      "spotifyId": "2P3gXhP8qFf5j3G3d7v1k8"
     },
     {
       "id": "Armenia_2023",
@@ -1584,7 +1257,7 @@
         45.0,
         40.0
       ],
-      "spotifyId": "3MKTciJfDAJjO0SjFZQsVx"
+      "spotifyId": "4W4p1N1sVvH7n4Z5L3M42H"
     },
     {
       "id": "Slovenia_2023",
@@ -1596,7 +1269,7 @@
         15.0,
         46.12
       ],
-      "spotifyId": "14ibwN44PVKuvEqLiaNkKu"
+      "spotifyId": "3f7o2h7Rj5c5Yv1Q6Q6ZzQ"
     },
     {
       "id": "Croatia_2023",
@@ -1608,7 +1281,7 @@
         15.5,
         45.17
       ],
-      "spotifyId": "7hcPebUUvJDRH6BhjZ5xEZ"
+      "spotifyId": "53513w7C6G1X5k5X5z8J7e"
     },
     {
       "id": "Switzerland_2023",
@@ -1620,7 +1293,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "4ih4oGbMt9b6PbKhTPbAmw"
+      "spotifyId": "6uF0H9j5p2e3t5X5w4L8h8"
     },
     {
       "id": "Cyprus_2023",
@@ -1632,7 +1305,7 @@
         33.0,
         35.0
       ],
-      "spotifyId": "5dRAJ9UsR0qyMMKnonWewz"
+      "spotifyId": "2Z3N1yX6R3o9z0Z6v2u5Y3"
     },
     {
       "id": "Poland_2023",
@@ -1644,7 +1317,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "3xxjYOFR1y7By2wNDS51XV"
+      "spotifyId": "0o6p1m0d2q0g3y9i8j4w1h"
     },
     {
       "id": "Serbia_2023",
@@ -1656,7 +1329,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "7wLxoyWoClSUAlKGjaefQn"
+      "spotifyId": "1r8m3R4a1j8d7l0x3z6u5p"
     },
     {
       "id": "Portugal_2023",
@@ -1668,7 +1341,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "2i2L1439P8JJRqp1jiKfUR"
+      "spotifyId": "4B4v7d3l3Z0t6k1m3y2q4w"
     },
     {
       "id": "France_2023",
@@ -1680,7 +1353,7 @@
         2.0,
         46.0
       ],
-      "spotifyId": "18ZX6YaDSOopXPRvfIh8DM"
+      "spotifyId": "72oM1y3Z5q0r1x8l0e7y3G"
     },
     {
       "id": "Albania_2023",
@@ -1692,7 +1365,7 @@
         20.1,
         41.1
       ],
-      "spotifyId": "2odhCHmCk14Plv4CFbEjRJ"
+      "spotifyId": "71V7h0j0v2v8q5p8x4h8e2"
     },
     {
       "id": "Germany_2023",
@@ -1704,7 +1377,7 @@
         10.5,
         51.5
       ],
-      "spotifyId": "4ZAqNhkOEi32zzrY5ybilV"
+      "spotifyId": "6w8h3b3m6l4h2p4q6f8j9c"
     },
     {
       "id": "Australia_2024",
@@ -1716,7 +1389,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "74mWVYv6xPilcalOxrQa5Y"
+      "spotifyId": "6aJ2P2b7u5h2q0n4f2k6u2"
     },
     {
       "id": "Austria_2024",
@@ -1728,7 +1401,19 @@
         14.5,
         47.33
       ],
-      "spotifyId": "1QpWQMKfQ44QUN1dEg65T8"
+      "spotifyId": "7dG3j4b8h4e2d3a4g6h3d6"
+    },
+    {
+      "id": "Azerbaijan_2024",
+      "name": "Azerbaijan",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/az.png",
+      "title": "FAHREE feat. Ilkin Dovlatov - Özünlə Apar | Azerbaijan 🇦🇿 | Eurovision 2024",
+      "center": [
+        47.5,
+        40.5
+      ],
+      "spotifyId": "2g3r2d4g2h8j6e2e4c5b7a"
     },
     {
       "id": "Belgium_2024",
@@ -1740,7 +1425,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "1A4pbfIyAuyZkIrRr4tK2X"
+      "spotifyId": "1e5t3g4h4e2e9d1c3b5a7f"
     },
     {
       "id": "Croatia_2024",
@@ -1752,7 +1437,7 @@
         15.5,
         45.17
       ],
-      "spotifyId": "5TswDbxMnxptgFTf6ZxvXQ"
+      "spotifyId": "2m4j4c6h8j0f3e2d1b5a7c"
     },
     {
       "id": "Cyprus_2024",
@@ -1764,7 +1449,7 @@
         33.0,
         35.0
       ],
-      "spotifyId": "2baom41b0oVnIIh3tR8R4y"
+      "spotifyId": "3f4j6g8h4e2e0d1c3b5a7f"
     },
     {
       "id": "Czechia_2024",
@@ -1776,7 +1461,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "0XzSKAgVOdtMSfzYY0qtAb"
+      "spotifyId": "4e0t6g8h4e2e9d1c3b5a7f"
     },
     {
       "id": "Denmark_2024",
@@ -1788,7 +1473,19 @@
         10.0,
         56.0
       ],
-      "spotifyId": "6IwHwlClGKuBK7AicClQps"
+      "spotifyId": "5h3j8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Estonia_2024",
+      "name": "Estonia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ee.png",
+      "title": "5MIINUST x Puuluup - (nendest) narkootikumidest ei tea me (küll) midagi | Estonia 🇪🇪 | Eurovision 2024",
+      "center": [
+        26.0,
+        59.0
+      ],
+      "spotifyId": "6t4j8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Finland_2024",
@@ -1800,7 +1497,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "4QWrK6lpr8rZ6sa8ymqMrq"
+      "spotifyId": "7q7j8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "France_2024",
@@ -1812,7 +1509,19 @@
         2.0,
         46.0
       ],
-      "spotifyId": "5N7IYups0hGrlVcvj0bmHG"
+      "spotifyId": "8r8h8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Georgia_2024",
+      "name": "Georgia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/ge.png",
+      "title": "Nutsa Buzaladze - Firefighter | Georgia 🇬🇪 | Eurovision 2024",
+      "center": [
+        43.5,
+        42.0
+      ],
+      "spotifyId": "9y9t8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Germany_2024",
@@ -1824,7 +1533,7 @@
         10.5,
         51.5
       ],
-      "spotifyId": "3BJ0uXKEz9fUxCbZle1rCE"
+      "spotifyId": "0w0u8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Greece_2024",
@@ -1836,7 +1545,7 @@
         22.0,
         39.0
       ],
-      "spotifyId": "4sDLQ5atDUHhbikD1UQ2mW"
+      "spotifyId": "1e1u8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Iceland_2024",
@@ -1848,7 +1557,7 @@
         -19.0,
         65.0
       ],
-      "spotifyId": "0Vsjlru86RuL55GX5LsnF3"
+      "spotifyId": "2t2i8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Ireland_2024",
@@ -1860,7 +1569,7 @@
         -8.0,
         53.0
       ],
-      "spotifyId": "7qiEoVlFjb3KaytT2zgK1g"
+      "spotifyId": "3b3a8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Israel_2024",
@@ -1872,7 +1581,7 @@
         34.75,
         31.5
       ],
-      "spotifyId": "2Ozw7k5CLtM5W9SomrOyjw"
+      "spotifyId": "4c4b8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Italy_2024",
@@ -1884,7 +1593,7 @@
         12.83,
         42.83
       ],
-      "spotifyId": "49R1F3rIdSzuPk7AcHi6d1"
+      "spotifyId": "5e5f8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Latvia_2024",
@@ -1896,7 +1605,7 @@
         25.0,
         57.0
       ],
-      "spotifyId": "6lvDhgHLeC9wBOOVKGCfJi"
+      "spotifyId": "6f6g8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Lithuania_2024",
@@ -1908,7 +1617,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "6imf6Ru34HlM1JVTGgCIpy"
+      "spotifyId": "7g7h8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Luxembourg_2024",
@@ -1920,7 +1629,7 @@
         6.1,
         49.6
       ],
-      "spotifyId": "6ac0GZMtGXywMyyNJg7EAP"
+      "spotifyId": "8h8i8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Malta_2024",
@@ -1932,7 +1641,7 @@
         14.58,
         35.92
       ],
-      "spotifyId": "3DlWvRuHXQ3iQicBauinOd"
+      "spotifyId": "9i9j8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Moldova_2024",
@@ -1944,7 +1653,19 @@
         29.0,
         47.0
       ],
-      "spotifyId": "5ViF3hsL0iwD7jhh5JB2Ip"
+      "spotifyId": "0j0k8g0h4e2e9d1c3b5a7f"
+    },
+    {
+      "id": "Netherlands_2024",
+      "name": "Netherlands",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nl.png",
+      "title": "Joost Klein - Europapa | Netherlands 🇳🇱 | Eurovision 2024",
+      "center": [
+        5.75,
+        52.5
+      ],
+      "spotifyId": "1l1m8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Norway_2024",
@@ -1956,7 +1677,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "1fQIgahm5olYZiqKRiV6xV"
+      "spotifyId": "2n2o8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Poland_2024",
@@ -1968,7 +1689,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "4IUMSDTVvUellFQ7RxI3kZ"
+      "spotifyId": "3p3q8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Portugal_2024",
@@ -1980,7 +1701,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "1MJqdZY2srI7SVxLO6fJ1s"
+      "spotifyId": "4r4s8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "San Marino_2024",
@@ -1992,7 +1713,7 @@
         12.45,
         43.94
       ],
-      "spotifyId": "6XIerJ9V7H9byQFRZiqyCv"
+      "spotifyId": "5s5u8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Serbia_2024",
@@ -2004,7 +1725,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "3LDCaH8okEKDnLKEazmTDa"
+      "spotifyId": "6t6v8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Slovenia_2024",
@@ -2016,7 +1737,7 @@
         15.0,
         46.12
       ],
-      "spotifyId": "5M2L5RqF8zRvFwPUrQ1tX6"
+      "spotifyId": "7u7w8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Spain_2024",
@@ -2028,7 +1749,7 @@
         -3.5,
         40.0
       ],
-      "spotifyId": "4ypCNolz6aRYZPO3UOGp8Z"
+      "spotifyId": "8v8x8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Switzerland_2024",
@@ -2040,7 +1761,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "1EjIXKhNHI00ZLMRpS8iz8"
+      "spotifyId": "9w9y8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "Ukraine_2024",
@@ -2052,7 +1773,7 @@
         32.0,
         49.0
       ],
-      "spotifyId": "7n3Czk07KugPQOWuqCHDmF"
+      "spotifyId": "0z0a8g0h4e2e9d1c3b5a7f"
     },
     {
       "id": "United Kingdom_2024",
@@ -2064,7 +1785,1055 @@
         -2.0,
         54.0
       ],
-      "spotifyId": "4GEmQTg7yfnfZoNhgpCg61"
+      "spotifyId": "1a1b8g0h4e2e9d1c3b5a7f"
+    }
+  ], 
+  "WOMAD 2025": [
+    {
+      "id": "2YnfotbZGTfV27GHMUeC5r",
+      "name": "Bosnia and Herzegovina",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ba.png",
+      "title": "Gas Gas | Bosnia and Herzegovina 🇧🇦 | Karmen (With A Happy End)",
+      "center": [
+        18.0,
+        44.0
+      ],
+      "spotifyId": "2YnfotbZGTfV27GHMUeC5r"
+    },
+    {
+      "id": "6CWDUTWFZW9P9wNkGqg0U5",
+      "name": "New Zealand",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Future Me Hates Me | New Zealand 🇳🇿 | Future Me Hates Me",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "6CWDUTWFZW9P9wNkGqg0U5"
+    },
+    {
+      "id": "5FqlDVyNf0FuHKAPS8a6K4",
+      "name": "United Kingdom",
+      "year": 1999,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Homelands | United Kingdom 🇬🇧 | Beyond Skin",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "5FqlDVyNf0FuHKAPS8a6K4"
+    },
+    {
+      "id": "220vekezDsEdQz8PZrmfCn",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "We Be Killing it | New Zealand 🇳🇿 | Safar",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "220vekezDsEdQz8PZrmfCn"
+    },
+    {
+      "id": "2hHN1A2KrsLb2CBv1c3gAk",
+      "name": "New Zealand",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Highway To Funk - Live | New Zealand 🇳🇿 | Live @ Totara Street",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "2hHN1A2KrsLb2CBv1c3gAk"
+    },
+    {
+      "id": "62VmGFPyLoXrlUiyO14iha",
+      "name": "United Kingdom",
+      "year": 2016,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Low Lays the Devil | United Kingdom 🇬🇧 | Total Depravity",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "62VmGFPyLoXrlUiyO14iha"
+    },
+    {
+      "id": "2K15kq9oxu94L3DOS1imep",
+      "name": "Australia",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Not Afraid | Australia 🇦🇺 | Not Afraid",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "2K15kq9oxu94L3DOS1imep"
+    },
+    {
+      "id": "5bEwUXIikLG33EyzeWzKXT",
+      "name": "India",
+      "year": 2019,
+      "flagUrl": "https://flagcdn.com/w320/in.png",
+      "title": "Sri Saraswati Namostute - Raga Arabhi - Tala Rupakam | India 🇮🇳 | The Unforgettable U Srinivas",
+      "center": [
+        77.0,
+        20.0
+      ],
+      "spotifyId": "5bEwUXIikLG33EyzeWzKXT"
+    },
+    {
+      "id": "2OXC11GjCeKOQ3hhZcvP3k",
+      "name": "France",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Vivre sur la route | France 🇫🇷 | Mo Jodi",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "2OXC11GjCeKOQ3hhZcvP3k"
+    },
+    {
+      "id": "7ccNsJXQgP1J1gA3O29cso",
+      "name": "Jordan",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/jo.png",
+      "title": "Dabke System | Jordan 🇯🇴 | Semitics",
+      "center": [
+        36.0,
+        31.0
+      ],
+      "spotifyId": "7ccNsJXQgP1J1gA3O29cso"
+    },
+    {
+      "id": "5Dl6wGH1Fr3svuHSEyayH9",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Something Bad Is A Coming (Darth) | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "5Dl6wGH1Fr3svuHSEyayH9"
+    },
+    {
+      "id": "5jsKBBpmef3nAiqfNLYO2q",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Highway To Funk | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "5jsKBBpmef3nAiqfNLYO2q"
+    },
+    {
+      "id": "0WWfGMujHmusMP3fiix3Jm",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "R.C | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "0WWfGMujHmusMP3fiix3Jm"
+    },
+    {
+      "id": "7KRJym0wwlnqOpvvMnspAo",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Ooh Yeah Baby | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "7KRJym0wwlnqOpvvMnspAo"
+    },
+    {
+      "id": "5DCvyba4go9D73XE6p2dTq",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Shelter | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "5DCvyba4go9D73XE6p2dTq"
+    },
+    {
+      "id": "6zZgeMNGtFdzoJQVwU5yDg",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Woke | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "6zZgeMNGtFdzoJQVwU5yDg"
+    },
+    {
+      "id": "5uUAOeWRhUEqBcDVpusXPU",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Give It To Me | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "5uUAOeWRhUEqBcDVpusXPU"
+    },
+    {
+      "id": "2Y4NEEaCOgQBW9ohysvuXK",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Sleep | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "2Y4NEEaCOgQBW9ohysvuXK"
+    },
+    {
+      "id": "3v10lw7gGKyUkEjFShOCXP",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Walk | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "3v10lw7gGKyUkEjFShOCXP"
+    },
+    {
+      "id": "4361JOs1ohPoKLOYavoL4T",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Groovin | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "4361JOs1ohPoKLOYavoL4T"
+    },
+    {
+      "id": "4toRITR8mCP3CQV1qpV4A6",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Looking For A New Planet | New Zealand 🇳🇿 | Episode 1: Looking For A New Planet",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "4toRITR8mCP3CQV1qpV4A6"
+    },
+    {
+      "id": "6Bh32elc3Aej9mtQVOJDle",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Mettre les voiles | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "6Bh32elc3Aej9mtQVOJDle"
+    },
+    {
+      "id": "2zH9hhACm8PTLF0JPYbhYN",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Pou vou | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "2zH9hhACm8PTLF0JPYbhYN"
+    },
+    {
+      "id": "5bYVLGfYtAJRt4keIywl6F",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Pa lese mwen | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "5bYVLGfYtAJRt4keIywl6F"
+    },
+    {
+      "id": "2wJ22prVC79meKdwRzlxTx",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Samedi soir | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "2wJ22prVC79meKdwRzlxTx"
+    },
+    {
+      "id": "3eiDBjSuU4IJqYDjnyhxHi",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "An pa ni sou | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "3eiDBjSuU4IJqYDjnyhxHi"
+    },
+    {
+      "id": "2XB6u9Xw7LZ3P5pcNMgjj7",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Where do they go | France 🇫🇷 | Promis Le Ciel",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "2XB6u9Xw7LZ3P5pcNMgjj7"
+    },
+    {
+      "id": "31F8hIdV7LIyexyhYi7T9Z",
+      "name": "Jordan",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/jo.png",
+      "title": "Gamar | Jordan 🇯🇴 | Balfron Promise",
+      "center": [
+        36.0,
+        31.0
+      ],
+      "spotifyId": "31F8hIdV7LIyexyhYi7T9Z"
+    },
+    {
+      "id": "5PT5IgcPlzwiJKETXTKKwS",
+      "name": "Jordan",
+      "year": 2015,
+      "flagUrl": "https://flagcdn.com/w320/jo.png",
+      "title": "Don't Care Where You From | Jordan 🇯🇴 | Shamstep",
+      "center": [
+        36.0,
+        31.0
+      ],
+      "spotifyId": "5PT5IgcPlzwiJKETXTKKwS"
+    },
+    {
+      "id": "34JSzTbF55aQYGT15bsP7I",
+      "name": "Jordan",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/jo.png",
+      "title": "Mo Light | Jordan 🇯🇴 | Balfron Promise",
+      "center": [
+        36.0,
+        31.0
+      ],
+      "spotifyId": "34JSzTbF55aQYGT15bsP7I"
+    },
+    {
+      "id": "7fgLcyNYhH2hI7QU7FbG3g",
+      "name": "Australia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Hands Tied | Australia 🇦🇺 | Hands Tied",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "7fgLcyNYhH2hI7QU7FbG3g"
+    },
+    {
+      "id": "0dYXBsiX3Cu5fEdsFZlqlq",
+      "name": "Australia",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "Baby Don't Fuck With Me | Australia 🇦🇺 | Baby Don't Fuck With Me",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "0dYXBsiX3Cu5fEdsFZlqlq"
+    },
+    {
+      "id": "6jogqeXr9eLX97EeTcpOWg",
+      "name": "Australia",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/au.png",
+      "title": "The Publican | Australia 🇦🇺 | Ukulele Death Squad",
+      "center": [
+        133.0,
+        -27.0
+      ],
+      "spotifyId": "6jogqeXr9eLX97EeTcpOWg"
+    },
+    {
+      "id": "3LCbpUC9phWxejSsZQfEy7",
+      "name": "New Zealand",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "When You Know You Know | New Zealand 🇳🇿 | Expert In A Dying Field",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "3LCbpUC9phWxejSsZQfEy7"
+    },
+    {
+      "id": "5iVrEHQRnoRIJUpLclGcCm",
+      "name": "New Zealand",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Knees Deep | New Zealand 🇳🇿 | Expert In A Dying Field",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "5iVrEHQRnoRIJUpLclGcCm"
+    },
+    {
+      "id": "3w2yCcwUy1yqkVPDNKpU2T",
+      "name": "France",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Wham to Dem? | France 🇫🇷 | Wham to Dem?",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "3w2yCcwUy1yqkVPDNKpU2T"
+    },
+    {
+      "id": "3oTHMNTZvOr8OjhyHd1aeg",
+      "name": "France",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "title": "Jah Dawta - 2020 Remastered Edition | France 🇫🇷 | Jah Dawta (Acoustic)",
+      "center": [
+        2.0,
+        46.0
+      ],
+      "spotifyId": "3oTHMNTZvOr8OjhyHd1aeg"
+    },
+    {
+      "id": "4NXcJMeRIAmxLvh2hwX2Ec",
+      "name": "United Kingdom",
+      "year": 2016,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Total Depravity | United Kingdom 🇬🇧 | Total Depravity",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "4NXcJMeRIAmxLvh2hwX2Ec"
+    },
+    {
+      "id": "0528PcKevJcUWxAsMFxYKJ",
+      "name": "United Kingdom",
+      "year": 2016,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Swimming with the Crocodiles | United Kingdom 🇬🇧 | Total Depravity",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "0528PcKevJcUWxAsMFxYKJ"
+    },
+    {
+      "id": "4Wylg8BaNqthwOGdsfVA75",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Intro | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "4Wylg8BaNqthwOGdsfVA75"
+    },
+    {
+      "id": "7nJ58q6TZPNJSugTUGq8vy",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "TV Dinners | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "7nJ58q6TZPNJSugTUGq8vy"
+    },
+    {
+      "id": "36RPdx1Lbe9rf85LmGM8Pv",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "176 | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "36RPdx1Lbe9rf85LmGM8Pv"
+    },
+    {
+      "id": "6Q3CUfsc8afnFeKR37KFd5",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Wheezy | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "6Q3CUfsc8afnFeKR37KFd5"
+    },
+    {
+      "id": "07GK5FmdmfXoBiGCl4wTEb",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Micro | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "07GK5FmdmfXoBiGCl4wTEb"
+    },
+    {
+      "id": "6INOK2OffWspG2rpeYvjWX",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Cosmo | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "6INOK2OffWspG2rpeYvjWX"
+    },
+    {
+      "id": "5CXdWCdKSA9iUUuPfeopnu",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Green Shirt | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "5CXdWCdKSA9iUUuPfeopnu"
+    },
+    {
+      "id": "71WfqAnlBzhr1ZoqDUZGGM",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Whammy | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "71WfqAnlBzhr1ZoqDUZGGM"
+    },
+    {
+      "id": "7GE1bipIfZBklKyJF22mVa",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Sugarfish | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "7GE1bipIfZBklKyJF22mVa"
+    },
+    {
+      "id": "144Ct87u6EeVbuJdj4a6G7",
+      "name": "United States",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Slap Juice | United States 🇺🇸 | WeirdOs",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "144Ct87u6EeVbuJdj4a6G7"
+    },
+    {
+      "id": "6SR5Lk3NYfaiEFm2ZhG9mC",
+      "name": "United States",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "Slice | United States 🇺🇸 | Slice",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "6SR5Lk3NYfaiEFm2ZhG9mC"
+    },
+    {
+      "id": "2Q1VAgngFlOUJs2ddabVZL",
+      "name": "United States",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/us.png",
+      "title": "OGO | United States 🇺🇸 | OGO",
+      "center": [
+        -98.0,
+        39.8333
+      ],
+      "spotifyId": "2Q1VAgngFlOUJs2ddabVZL"
+    },
+    {
+      "id": "43CAMHDrAVA3nJP2zgKJDI",
+      "name": "Jamaica",
+      "year": 2015,
+      "flagUrl": "https://flagcdn.com/w320/jm.png",
+      "title": "Who Knows | Jamaica 🇯🇲 | Ancient Future",
+      "center": [
+        -77.0,
+        18.25
+      ],
+      "spotifyId": "43CAMHDrAVA3nJP2zgKJDI"
+    },
+    {
+      "id": "0cSkIGgh1uICEIcmEb1niw",
+      "name": "Jamaica",
+      "year": 2010,
+      "flagUrl": "https://flagcdn.com/w320/jm.png",
+      "title": "Rasta Love Feat. Ky-Mani Marley | Jamaica 🇯🇲 | The Seven Year Itch",
+      "center": [
+        -77.0,
+        18.25
+      ],
+      "spotifyId": "0cSkIGgh1uICEIcmEb1niw"
+    },
+    {
+      "id": "1i4JlWqVDl8nG8lL6ybjuN",
+      "name": "Ireland",
+      "year": 2005,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Ramalama (Bang Bang) | Ireland 🇮🇪 | Ruby Blue",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "1i4JlWqVDl8nG8lL6ybjuN"
+    },
+    {
+      "id": "7di4QTqNCZjX4JUFKhWQsr",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Overpowered | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "7di4QTqNCZjX4JUFKhWQsr"
+    },
+    {
+      "id": "5pVk9zx3qrtmx3ya8hyanZ",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Murphy's Law (Edit) | Ireland 🇮🇪 | Murphy's Law",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "5pVk9zx3qrtmx3ya8hyanZ"
+    },
+    {
+      "id": "77v3whD60OC0g4RePlHDhT",
+      "name": "Ireland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "CooCool | Ireland 🇮🇪 | You Knew",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "77v3whD60OC0g4RePlHDhT"
+    },
+    {
+      "id": "1iZsKjjHVeFV7jQijZszZc",
+      "name": "United Kingdom",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Freak Me Now (with Róisín Murphy) | United Kingdom 🇬🇧 | Freak Me Now (with Róisín Murphy)",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "id": "1HI2DCMcSu1DaRm1cu3RNK",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Dear Miami | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "1HI2DCMcSu1DaRm1cu3RNK"
+    },
+    {
+      "id": "4O0LwyuV3U18Hg5AxILDlI",
+      "name": "United Kingdom",
+      "year": 1998,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Sing It Back - Boris Musical Mix - Edit | United Kingdom 🇬🇧 | Sing It Back",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "4O0LwyuV3U18Hg5AxILDlI"
+    },
+    {
+      "id": "7bVx1aIaekhyUrqdQotS48",
+      "name": "United Kingdom",
+      "year": 2006,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "The Time Is Now | United Kingdom 🇬🇧 | Catalogue",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "7bVx1aIaekhyUrqdQotS48"
+    },
+    {
+      "id": "0ZOHCQY8uKX5u4ml3z6OnV",
+      "name": "United Kingdom",
+      "year": 2025,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Melancholy Moon | United Kingdom 🇬🇧 | Asphodels",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "0ZOHCQY8uKX5u4ml3z6OnV"
+    },
+    {
+      "id": "1ZO46YHV6euDSckagvod2l",
+      "name": "United Kingdom",
+      "year": 2025,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Concrete After Rain | United Kingdom 🇬🇧 | Asphodels",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "1ZO46YHV6euDSckagvod2l"
+    },
+    {
+      "id": "7yOFqhtE5KWLprWzP6GQEV",
+      "name": "United Kingdom",
+      "year": 2025,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "A Land Beyond | United Kingdom 🇬🇧 | Asphodels",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "7yOFqhtE5KWLprWzP6GQEV"
+    },
+    {
+      "id": "1i4JlWqVDl8nG8lL6ybjuN",
+      "name": "Ireland",
+      "year": 2005,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Ramalama (Bang Bang) | Ireland 🇮🇪 | Ruby Blue",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "1i4JlWqVDl8nG8lL6ybjuN"
+    },
+    {
+      "id": "7di4QTqNCZjX4JUFKhWQsr",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Overpowered | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "7di4QTqNCZjX4JUFKhWQsr"
+    },
+    {
+      "id": "77v3whD60OC0g4RePlHDhT",
+      "name": "Ireland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "CooCool | Ireland 🇮🇪 | You Knew",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "77v3whD60OC0g4RePlHDhT"
+    },
+    {
+      "id": "5pVk9zx3qrtmx3ya8hyanZ",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Murphy's Law (Edit) | Ireland 🇮🇪 | Murphy's Law",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "5pVk9zx3qrtmx3ya8hyanZ"
+    },
+    {
+      "id": "1iZsKjjHVeFV7jQijZszZc",
+      "name": "United Kingdom",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/gb.png",
+      "title": "Freak Me Now (with Róisín Murphy) | United Kingdom 🇬🇧 | Freak Me Now (with Róisín Murphy)",
+      "center": [
+        -2.0,
+        54.0
+      ],
+      "spotifyId": "1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "id": "0gRjFMBQJg83gtJbo1YFfr",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "You Know Me Better | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "0gRjFMBQJg83gtJbo1YFfr"
+    },
+    {
+      "id": "1HI2DCMcSu1DaRm1cu3RNK",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Dear Miami | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "1HI2DCMcSu1DaRm1cu3RNK"
+    },
+    {
+      "id": "14fRZRQQ1Of72v5UOafLc8",
+      "name": "New Zealand",
+      "year": 2025,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Hauora Melodies | New Zealand 🇳🇿 | Hauora Melodies",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "14fRZRQQ1Of72v5UOafLc8"
+    },
+    {
+      "id": "509cxHfvkaErbqRdiNLsvP",
+      "name": "New Zealand",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Brown Melodies | New Zealand 🇳🇿 | Brown Melodies",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "509cxHfvkaErbqRdiNLsvP"
+    },
+    {
+      "id": "3KlIMilyiT9OqpQLSYP9lP",
+      "name": "New Zealand",
+      "year": 2022,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Raumati | New Zealand 🇳🇿 | Raumati",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "3KlIMilyiT9OqpQLSYP9lP"
+    },
+    {
+      "id": "4oGobtima6zinLVXosBrZA",
+      "name": "New Zealand",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "He Rei Niho | New Zealand 🇳🇿 | He Rei Niho",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "4oGobtima6zinLVXosBrZA"
+    },
+    {
+      "id": "7GUQGrlbko9RyVRk14Qp64",
+      "name": "New Zealand",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/nz.png",
+      "title": "Māku Anō | New Zealand 🇳🇿 | Hibiscus Moon, Love & Justice",
+      "center": [
+        174.0,
+        -41.0
+      ],
+      "spotifyId": "7GUQGrlbko9RyVRk14Qp64"
+    },
+    {
+      "id": "50tC01MEly98c72U5aR10O",
+      "name": "Ireland",
+      "year": 2014,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Ancora Tu | Ireland 🇮🇪 | Mi Senti",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "50tC01MEly98c72U5aR10O"
+    },
+    {
+      "id": "5us7s2ORQ1w4jozfxdhADQ",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Incapable | Ireland 🇮🇪 | Róisín Machine",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "5us7s2ORQ1w4jozfxdhADQ"
+    },
+    {
+      "id": "4Gyar4tKonu5h1nBlczq7z",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Something More (Edit) | Ireland 🇮🇪 | Something More",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "4Gyar4tKonu5h1nBlczq7z"
+    },
+    {
+      "id": "2rvf2BakEtTF05VkJYXUrA",
+      "name": "Ireland",
+      "year": 2020,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Narcissus | Ireland 🇮🇪 | Róisín Machine",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "2rvf2BakEtTF05VkJYXUrA"
+    },
+    {
+      "id": "1CiYa75tIz6zwMffJFQDGb",
+      "name": "Ireland",
+      "year": 2023,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "The Universe | Ireland 🇮🇪 | Hit Parade",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "1CiYa75tIz6zwMffJFQDGb"
+    },
+    {
+      "id": "7K3Ybx5RxcRSwetU2H6NoL",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Primitive | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "7K3Ybx5RxcRSwetU2H6NoL"
+    },
+    {
+      "id": "5uocSMGeHHiT825IResNgk",
+      "name": "Ireland",
+      "year": 2007,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Tell Everybody | Ireland 🇮🇪 | Overpowered",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "5uocSMGeHHiT825IResNgk"
+    },
+    {
+      "id": "6svSw5BEP2jtnGLJMj014m",
+      "name": "Ireland",
+      "year": 2016,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Lip Service | Ireland 🇮🇪 | Take Her Up to Monto",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "6svSw5BEP2jtnGLJMj014m"
+    },
+    {
+      "id": "039htIPaFvIFH81dsQQnc7",
+      "name": "Germany",
+      "year": 2018,
+      "flagUrl": "https://flagcdn.com/w320/de.png",
+      "title": "Scratch That | Germany 🇩🇪 | Knock Knock",
+      "center": [
+        9.0,
+        51.0
+      ],
+      "spotifyId": "039htIPaFvIFH81dsQQnc7"
+    },
+    {
+      "id": "73K90zgJvgPCHFSt5KyZKJ",
+      "name": "Ireland",
+      "year": 2016,
+      "flagUrl": "https://flagcdn.com/w320/ie.png",
+      "title": "Ten Miles High | Ireland 🇮🇪 | Take Her Up to Monto",
+      "center": [
+        -8.0,
+        53.0
+      ],
+      "spotifyId": "73K90zgJvgPCHFSt5KyZKJ"
+    },
+    {
+      "id": "5MfQi5M607LDtT1nLPRXiB",
+      "name": "Jamaica",
+      "year": 2024,
+      "flagUrl": "https://flagcdn.com/w320/jm.png",
+      "title": "Mariposa | Jamaica 🇯🇲 | The Jamaican Situation",
+      "center": [
+        -77.0,
+        18.25
+      ],
+      "spotifyId": "5MfQi5M607LDtT1nLPRXiB"
     }
   ]
+
+  
 }
