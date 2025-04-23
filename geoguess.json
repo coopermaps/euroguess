@@ -373,7 +373,7 @@
         23.9,
         55.3
       ],
-      "spotifyId": "1imPa2lzxmLKggLCpkBAao"
+      "spotifyId": "1imPa2lzxmLKggLCpkBAoo"
     },
     {
       "id": "Poland",
@@ -613,18 +613,6 @@
         51.5
       ],
       "spotifyId": "6gSg3QpIF5yNIxbPg711Wz"
-    },
-    {
-      "id": "Greece_2020",
-      "name": "Greece",
-      "year": 2020,
-      "flagUrl": "https://flagcdn.com/w320/gr.png",
-      "title": "Stefania - Supergirl | Greece 🇬🇷 | Eurovision 2020 (Cancelled)",
-      "center": [
-        22.0,
-        39.0
-      ],
-      "spotifyId": "3owDaGBtecJdmRtZ7esvFU"
     },
     {
       "id": "Iceland_2020",
@@ -939,18 +927,6 @@
       "spotifyId": "207oYvMe7AHIHMnZPBbPV2"
     },
     {
-      "id": "Iceland_2021",
-      "name": "Iceland",
-      "year": 2021,
-      "flagUrl": "https://flagcdn.com/w320/is.png",
-      "title": "Daði og Gagnamagnið - 10 Years | Iceland 🇮🇸 | Eurovision 2021",
-      "center": [
-        -19.0,
-        65.0
-      ],
-      "spotifyId": "3qSyv2svKxAypN9AsWVm92"
-    },
-    {
       "id": "Ukraine_2021",
       "name": "Ukraine",
       "year": 2021,
@@ -1116,7 +1092,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "1ISWa0THMDKFBq2UMfm02e"
+      "spotifyId": "1ISMa0THMDKFBq2UMfm02e"
     },
     {
       "id": "Belgium_2021",
@@ -1260,7 +1236,7 @@
         16.0,
         62.0
       ],
-      "spotifyId": "6cE8kJybiuSJgKEddamFVd"
+      "spotifyId": "697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "id": "Serbia_2022",
@@ -1272,7 +1248,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "1fHqVq2r9rXgLz4f1E230z"
+      "spotifyId": "1JaOUMmaSZlWfONvT4HTlg"
     },
     {
       "id": "Italy_2022",
@@ -1284,31 +1260,7 @@
         12.83,
         42.83
       ],
-      "spotifyId": "1zrGrRwIDdmQ3sXlrt2fPm"
-    },
-    {
-      "id": "Moldova_2022",
-      "name": "Moldova",
-      "year": 2022,
-      "flagUrl": "https://flagcdn.com/w320/md.png",
-      "title": "Zdob și Zdub & Advahov Brothers - Trenulețul | Moldova 🇲🇩 | Eurovision 2022",
-      "center": [
-        29.0,
-        47.0
-      ],
-      "spotifyId": "6i2ltwYkK8o1P10gL7dIbc"
-    },
-    {
-      "id": "Greece_2022",
-      "name": "Greece",
-      "year": 2022,
-      "flagUrl": "https://flagcdn.com/w320/gr.png",
-      "title": "Amanda Georgiadi Tenfjord - Die Together | Greece 🇬🇷 | Eurovision 2022",
-      "center": [
-        22.0,
-        39.0
-      ],
-      "spotifyId": "3dFjGipWb7dC34gHGYHhIm"
+      "spotifyId": "1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "id": "Portugal_2022",
@@ -1320,7 +1272,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "5L4FpB6p9Ckd2CvkYgXwAA"
+      "spotifyId": "4S4Amrpr631M16IIXqRk73"
     },
     {
       "id": "Norway_2022",
@@ -1332,7 +1284,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "0apX90a7Ssk5rbj4fJ823a"
+      "spotifyId": "50Cf2eYv8zT3v2HAkwhIiL"
     },
     {
       "id": "Netherlands_2022",
@@ -1344,7 +1296,7 @@
         5.75,
         52.5
       ],
-      "spotifyId": "2FYj7ZzP8l0mFzRjW6qK9G"
+      "spotifyId": "7uQ7e7nzbtyX87eIYHpj6Z"
     },
     {
       "id": "Australia_2022",
@@ -1356,7 +1308,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "5zI6rM30kX0v2gA2y4sHpt"
+      "spotifyId": "27ThQIsofXro6xEz3SzQWi"
     },
     {
       "id": "Azerbaijan_2022",
@@ -1368,7 +1320,7 @@
         47.5,
         40.5
       ],
-      "spotifyId": "0tK2b3p4v79V01xTf4wz7n"
+      "spotifyId": "7aX4w6c7gSqbTBoU8g2lnm"
     },
     {
       "id": "Lithuania_2022",
@@ -1380,7 +1332,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "192K0HjR5B3V3eL3nF6lYm"
+      "spotifyId": "7LjVxb9LIlQFTdk87SlXme"
     },
     {
       "id": "Estonia_2022",
@@ -1392,7 +1344,7 @@
         26.0,
         59.0
       ],
-      "spotifyId": "7nC53D6P4o9P0p5K3o8vM9"
+      "spotifyId": "6sSq38pmQxG0YuvbipDoEi"
     },
     {
       "id": "Finland_2022",
@@ -1404,7 +1356,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "2FqY4Y4M4y71G2dK0Q3rB4"
+      "spotifyId": "2NehRqeFiEGV72lFfqJGUn"
     },
     {
       "id": "Poland_2022",
@@ -1416,7 +1368,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "1Q6c1gX9P3x3W5o8cRjsdM"
+      "spotifyId": "2fSz6MBKMPjOApUhGYfPid"
     },
     {
       "id": "Switzerland_2022",
@@ -1428,7 +1380,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "1qQpjrDqWvR0oH443W4hJj"
+      "spotifyId": "5A3JxIX04W5Ttu6Rxy5tWW"
     },
     {
       "id": "Belgium_2022",
@@ -1440,7 +1392,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "2Yq4z2KzJ7Zz8fKjZzW6pT"
+      "spotifyId": "4VgSGm7CroAlCCt9GKQ75Z"
     },
     {
       "id": "Armenia_2022",
@@ -1452,7 +1404,7 @@
         45.0,
         40.0
       ],
-      "spotifyId": "1gwLLMgsJgP2sP1x4yvL8x"
+      "spotifyId": "5hx7w26Zi3zafMgvMTUqF6"
     },
     {
       "id": "Czech Republic_2022",
@@ -1464,7 +1416,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "5gDMHiN0Jb1z6yC9K5mSjQ"
+      "spotifyId": "0tOKpglJb9cza4WdTtxsv7"
     },
     {
       "id": "Romania_2022",
@@ -1476,7 +1428,7 @@
         25.0,
         46.0
       ],
-      "spotifyId": "4h7mQBHhJ9zQ106V2Tj3L3"
+      "spotifyId": "3n9qn38IhqkC7DcdIRaM9q"
     },
     {
       "id": "France_2022",
@@ -1488,7 +1440,7 @@
         2.0,
         46.0
       ],
-      "spotifyId": "03c9B7b8U94g4f0a6mP318"
+      "spotifyId": "43UejonUIN69O8NNAFRu5X"
     },
     {
       "id": "Norway_2023",
@@ -1500,7 +1452,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "1D2lD2a1Fw1e4JkFqD8i5i"
+      "spotifyId": "14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "id": "Sweden_2023",
@@ -1512,7 +1464,7 @@
         16.0,
         62.0
       ],
-      "spotifyId": "1RjJcQf76CgM20b5bH3091"
+      "spotifyId": "1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "id": "Finland_2023",
@@ -1524,7 +1476,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "1Qp0J1P6L25gL48aXlD7c7"
+      "spotifyId": "5RX8T3EoTuXcybAxe6oPAw"
     },
     {
       "id": "Israel_2023",
@@ -1536,7 +1488,7 @@
         34.75,
         31.5
       ],
-      "spotifyId": "392t0l7H93q5d7tC5f1e63"
+      "spotifyId": "6dUregFbvUNqHP5nphqesK"
     },
     {
       "id": "Italy_2023",
@@ -1548,7 +1500,7 @@
         12.83,
         42.83
       ],
-      "spotifyId": "0qF7L48Wp4a7vC3yW9gX1f"
+      "spotifyId": "4eI0ncpnZuv4A3ssTJRSDY"
     },
     {
       "id": "Ukraine_2023",
@@ -1560,7 +1512,7 @@
         32.0,
         49.0
       ],
-      "spotifyId": "4LgUq1M7H2G6t2J61R7n4v"
+      "spotifyId": "155yInH5aDNEI1MkcX6NNk"
     },
     {
       "id": "Belgium_2023",
@@ -1572,7 +1524,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "06q3tF00c8j61E9q4aY93n"
+      "spotifyId": "320jqrATpl9762bCQkmLDf"
     },
     {
       "id": "Estonia_2023",
@@ -1584,7 +1536,7 @@
         26.0,
         59.0
       ],
-      "spotifyId": "1qW8x0hP0q5q0M3J5zZ5jP"
+      "spotifyId": "3pvzk44kwy8u46wtglCKzd"
     },
     {
       "id": "Australia_2023",
@@ -1596,7 +1548,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "77Vv7y3Gj00b1P302d12sW"
+      "spotifyId": "0LeK6Ol47og0WdGwKegNUL"
     },
     {
       "id": "Czech Republic_2023",
@@ -1608,7 +1560,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "4S3a7l3vL63z4o2h3K3n1i"
+      "spotifyId": "59md7R7fW5LjSbZITzzn3n"
     },
     {
       "id": "Lithuania_2023",
@@ -1620,7 +1572,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "2P3gXhP8qFf5j3G3d7v1k8"
+      "spotifyId": "6ouoSKOsxFa7wV6wMJHAOy"
     },
     {
       "id": "Armenia_2023",
@@ -1632,7 +1584,7 @@
         45.0,
         40.0
       ],
-      "spotifyId": "4W4p1N1sVvH7n4Z5L3M42H"
+      "spotifyId": "3MKTciJfDAJjO0SjFZQsVx"
     },
     {
       "id": "Slovenia_2023",
@@ -1644,7 +1596,7 @@
         15.0,
         46.12
       ],
-      "spotifyId": "3f7o2h7Rj5c5Yv1Q6Q6ZzQ"
+      "spotifyId": "14ibwN44PVKuvEqLiaNkKu"
     },
     {
       "id": "Croatia_2023",
@@ -1656,7 +1608,7 @@
         15.5,
         45.17
       ],
-      "spotifyId": "53513w7C6G1X5k5X5z8J7e"
+      "spotifyId": "7hcPebUUvJDRH6BhjZ5xEZ"
     },
     {
       "id": "Switzerland_2023",
@@ -1668,7 +1620,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "6uF0H9j5p2e3t5X5w4L8h8"
+      "spotifyId": "4ih4oGbMt9b6PbKhTPbAmw"
     },
     {
       "id": "Cyprus_2023",
@@ -1680,7 +1632,7 @@
         33.0,
         35.0
       ],
-      "spotifyId": "2Z3N1yX6R3o9z0Z6v2u5Y3"
+      "spotifyId": "5dRAJ9UsR0qyMMKnonWewz"
     },
     {
       "id": "Poland_2023",
@@ -1692,7 +1644,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "0o6p1m0d2q0g3y9i8j4w1h"
+      "spotifyId": "3xxjYOFR1y7By2wNDS51XV"
     },
     {
       "id": "Serbia_2023",
@@ -1704,7 +1656,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "1r8m3R4a1j8d7l0x3z6u5p"
+      "spotifyId": "7wLxoyWoClSUAlKGjaefQn"
     },
     {
       "id": "Portugal_2023",
@@ -1716,7 +1668,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "4B4v7d3l3Z0t6k1m3y2q4w"
+      "spotifyId": "2i2L1439P8JJRqp1jiKfUR"
     },
     {
       "id": "France_2023",
@@ -1728,7 +1680,7 @@
         2.0,
         46.0
       ],
-      "spotifyId": "72oM1y3Z5q0r1x8l0e7y3G"
+      "spotifyId": "18ZX6YaDSOopXPRvfIh8DM"
     },
     {
       "id": "Albania_2023",
@@ -1740,7 +1692,7 @@
         20.1,
         41.1
       ],
-      "spotifyId": "71V7h0j0v2v8q5p8x4h8e2"
+      "spotifyId": "2odhCHmCk14Plv4CFbEjRJ"
     },
     {
       "id": "Germany_2023",
@@ -1752,7 +1704,7 @@
         10.5,
         51.5
       ],
-      "spotifyId": "6w8h3b3m6l4h2p4q6f8j9c"
+      "spotifyId": "4ZAqNhkOEi32zzrY5ybilV"
     },
     {
       "id": "Australia_2024",
@@ -1764,7 +1716,7 @@
         133.0,
         -27.0
       ],
-      "spotifyId": "6aJ2P2b7u5h2q0n4f2k6u2"
+      "spotifyId": "74mWVYv6xPilcalOxrQa5Y"
     },
     {
       "id": "Austria_2024",
@@ -1776,19 +1728,7 @@
         14.5,
         47.33
       ],
-      "spotifyId": "7dG3j4b8h4e2d3a4g6h3d6"
-    },
-    {
-      "id": "Azerbaijan_2024",
-      "name": "Azerbaijan",
-      "year": 2024,
-      "flagUrl": "https://flagcdn.com/w320/az.png",
-      "title": "FAHREE feat. Ilkin Dovlatov - Özünlə Apar | Azerbaijan 🇦🇿 | Eurovision 2024",
-      "center": [
-        47.5,
-        40.5
-      ],
-      "spotifyId": "2g3r2d4g2h8j6e2e4c5b7a"
+      "spotifyId": "1QpWQMKfQ44QUN1dEg65T8"
     },
     {
       "id": "Belgium_2024",
@@ -1800,7 +1740,7 @@
         4.6,
         50.5
       ],
-      "spotifyId": "1e5t3g4h4e2e9d1c3b5a7f"
+      "spotifyId": "1A4pbfIyAuyZkIrRr4tK2X"
     },
     {
       "id": "Croatia_2024",
@@ -1812,7 +1752,7 @@
         15.5,
         45.17
       ],
-      "spotifyId": "2m4j4c6h8j0f3e2d1b5a7c"
+      "spotifyId": "5TswDbxMnxptgFTf6ZxvXQ"
     },
     {
       "id": "Cyprus_2024",
@@ -1824,7 +1764,7 @@
         33.0,
         35.0
       ],
-      "spotifyId": "3f4j6g8h4e2e0d1c3b5a7f"
+      "spotifyId": "2baom41b0oVnIIh3tR8R4y"
     },
     {
       "id": "Czechia_2024",
@@ -1836,7 +1776,7 @@
         15.5,
         49.75
       ],
-      "spotifyId": "4e0t6g8h4e2e9d1c3b5a7f"
+      "spotifyId": "0XzSKAgVOdtMSfzYY0qtAb"
     },
     {
       "id": "Denmark_2024",
@@ -1848,19 +1788,7 @@
         10.0,
         56.0
       ],
-      "spotifyId": "5h3j8g0h4e2e9d1c3b5a7f"
-    },
-    {
-      "id": "Estonia_2024",
-      "name": "Estonia",
-      "year": 2024,
-      "flagUrl": "https://flagcdn.com/w320/ee.png",
-      "title": "5MIINUST x Puuluup - (nendest) narkootikumidest ei tea me (küll) midagi | Estonia 🇪🇪 | Eurovision 2024",
-      "center": [
-        26.0,
-        59.0
-      ],
-      "spotifyId": "6t4j8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "6IwHwlClGKuBK7AicClQps"
     },
     {
       "id": "Finland_2024",
@@ -1872,7 +1800,7 @@
         26.0,
         64.0
       ],
-      "spotifyId": "7q7j8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "4QWrK6lpr8rZ6sa8ymqMrq"
     },
     {
       "id": "France_2024",
@@ -1884,19 +1812,7 @@
         2.0,
         46.0
       ],
-      "spotifyId": "8r8h8g0h4e2e9d1c3b5a7f"
-    },
-    {
-      "id": "Georgia_2024",
-      "name": "Georgia",
-      "year": 2024,
-      "flagUrl": "https://flagcdn.com/w320/ge.png",
-      "title": "Nutsa Buzaladze - Firefighter | Georgia 🇬🇪 | Eurovision 2024",
-      "center": [
-        43.5,
-        42.0
-      ],
-      "spotifyId": "9y9t8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "5N7IYups0hGrlVcvj0bmHG"
     },
     {
       "id": "Germany_2024",
@@ -1908,7 +1824,7 @@
         10.5,
         51.5
       ],
-      "spotifyId": "0w0u8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "3BJ0uXKEz9fUxCbZle1rCE"
     },
     {
       "id": "Greece_2024",
@@ -1920,7 +1836,7 @@
         22.0,
         39.0
       ],
-      "spotifyId": "1e1u8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "4sDLQ5atDUHhbikD1UQ2mW"
     },
     {
       "id": "Iceland_2024",
@@ -1932,7 +1848,7 @@
         -19.0,
         65.0
       ],
-      "spotifyId": "2t2i8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "0Vsjlru86RuL55GX5LsnF3"
     },
     {
       "id": "Ireland_2024",
@@ -1944,7 +1860,7 @@
         -8.0,
         53.0
       ],
-      "spotifyId": "3b3a8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "id": "Israel_2024",
@@ -1956,7 +1872,7 @@
         34.75,
         31.5
       ],
-      "spotifyId": "4c4b8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "2Ozw7k5CLtM5W9SomrOyjw"
     },
     {
       "id": "Italy_2024",
@@ -1968,7 +1884,7 @@
         12.83,
         42.83
       ],
-      "spotifyId": "5e5f8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "49R1F3rIdSzuPk7AcHi6d1"
     },
     {
       "id": "Latvia_2024",
@@ -1980,7 +1896,7 @@
         25.0,
         57.0
       ],
-      "spotifyId": "6f6g8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "6lvDhgHLeC9wBOOVKGCfJi"
     },
     {
       "id": "Lithuania_2024",
@@ -1992,7 +1908,7 @@
         24.0,
         55.0
       ],
-      "spotifyId": "7g7h8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "6imf6Ru34HlM1JVTGgCIpy"
     },
     {
       "id": "Luxembourg_2024",
@@ -2004,7 +1920,7 @@
         6.1,
         49.6
       ],
-      "spotifyId": "8h8i8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "6ac0GZMtGXywMyyNJg7EAP"
     },
     {
       "id": "Malta_2024",
@@ -2016,7 +1932,7 @@
         14.58,
         35.92
       ],
-      "spotifyId": "9i9j8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "3DlWvRuHXQ3iQicBauinOd"
     },
     {
       "id": "Moldova_2024",
@@ -2028,19 +1944,7 @@
         29.0,
         47.0
       ],
-      "spotifyId": "0j0k8g0h4e2e9d1c3b5a7f"
-    },
-    {
-      "id": "Netherlands_2024",
-      "name": "Netherlands",
-      "year": 2024,
-      "flagUrl": "https://flagcdn.com/w320/nl.png",
-      "title": "Joost Klein - Europapa | Netherlands 🇳🇱 | Eurovision 2024",
-      "center": [
-        5.75,
-        52.5
-      ],
-      "spotifyId": "1l1m8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "5ViF3hsL0iwD7jhh5JB2Ip"
     },
     {
       "id": "Norway_2024",
@@ -2052,7 +1956,7 @@
         8.0,
         62.0
       ],
-      "spotifyId": "2n2o8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "1fQIgahm5olYZiqKRiV6xV"
     },
     {
       "id": "Poland_2024",
@@ -2064,7 +1968,7 @@
         19.0,
         52.0
       ],
-      "spotifyId": "3p3q8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "4IUMSDTVvUellFQ7RxI3kZ"
     },
     {
       "id": "Portugal_2024",
@@ -2076,7 +1980,7 @@
         -8.0,
         39.5
       ],
-      "spotifyId": "4r4s8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "1MJqdZY2srI7SVxLO6fJ1s"
     },
     {
       "id": "San Marino_2024",
@@ -2088,7 +1992,7 @@
         12.45,
         43.94
       ],
-      "spotifyId": "5s5u8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "6XIerJ9V7H9byQFRZiqyCv"
     },
     {
       "id": "Serbia_2024",
@@ -2100,7 +2004,7 @@
         21.0,
         44.0
       ],
-      "spotifyId": "6t6v8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "3LDCaH8okEKDnLKEazmTDa"
     },
     {
       "id": "Slovenia_2024",
@@ -2112,7 +2016,7 @@
         15.0,
         46.12
       ],
-      "spotifyId": "7u7w8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "5M2L5RqF8zRvFwPUrQ1tX6"
     },
     {
       "id": "Spain_2024",
@@ -2124,7 +2028,7 @@
         -3.5,
         40.0
       ],
-      "spotifyId": "8v8x8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "4ypCNolz6aRYZPO3UOGp8Z"
     },
     {
       "id": "Switzerland_2024",
@@ -2136,7 +2040,7 @@
         8.0,
         46.83
       ],
-      "spotifyId": "9w9y8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
       "id": "Ukraine_2024",
@@ -2148,7 +2052,7 @@
         32.0,
         49.0
       ],
-      "spotifyId": "0z0a8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "7n3Czk07KugPQOWuqCHDmF"
     },
     {
       "id": "United Kingdom_2024",
@@ -2160,7 +2064,7 @@
         -2.0,
         54.0
       ],
-      "spotifyId": "1a1b8g0h4e2e9d1c3b5a7f"
+      "spotifyId": "4GEmQTg7yfnfZoNhgpCg61"
     }
   ]
 }
