@@ -1,4 +1,101 @@
-{   "Eurovision 2026": [
+{
+"Eurovision 2026":[
+{
+"id":"Albania",
+"name":"Albania",
+"flagUrl":"https://flagcdn.com/w320/al.png",
+"title":"Alis - Nân | Albania 🇦🇱 | Eurovision 2026",
+"center":[19.82,41.33],
+"spotifyId":"40vsOMljwhHCibpToRULGo"
+},
+{
+"id":"Armenia",
+"name":"Armenia",
+"flagUrl":"https://flagcdn.com/w320/am.png",
+"title":"Simón - Paloma rumba | Armenia 🇦🇲 | Eurovision 2026",
+"center":[44.51,40.18],
+"spotifyId":""
+},
+{
+"id":"Australia",
+"name":"Australia",
+"flagUrl":"https://flagcdn.com/w320/au.png",
+"title":"Delta Goodrem - Eclipse | Australia 🇦🇺 | Eurovision 2026",
+"center":[149.13,-35.28],
+"spotifyId":"2pJ0Ji9nkohwuKMuyNhiwo"
+},
+{
+"id":"Austria",
+"name":"Austria",
+"flagUrl":"https://flagcdn.com/w320/at.png",
+"title":"Cosmó - Tanzschein | Austria 🇦🇹 | Eurovision 2026",
+"center":[16.37,48.21],
+"spotifyId":"6P4wvzxJJZR7cVs1kFXL3q"
+},
+{
+"id":"Azerbaijan",
+"name":"Azerbaijan",
+"flagUrl":"https://flagcdn.com/w320/az.png",
+"title":"Jiva - Just Go | Azerbaijan 🇦🇿 | Eurovision 2026",
+"center":[49.89,40.41],
+"spotifyId":""
+},
+{
+"id":"Belgium",
+"name":"Belgium",
+"flagUrl":"https://flagcdn.com/w320/be.png",
+"title":"Essyla - Dancing on the Ice | Belgium 🇧🇪 | Eurovision 2026",
+"center":[4.35,50.85],
+"spotifyId":"1u0WYHtNFrAyzgybCDK861"
+},
+{
+"id":"Bulgaria",
+"name":"Bulgaria",
+"flagUrl":"https://flagcdn.com/w320/bg.png",
+"title":"Dara - Bangaranga | Bulgaria 🇧🇬 | Eurovision 2026",
+"center":[23.32,42.70],
+"spotifyId":"6SvlfrQYzUsW5UQUpUpy26"
+},
+{
+"id":"Croatia",
+"name":"Croatia",
+"flagUrl":"https://flagcdn.com/w320/hr.png",
+"title":"Lelek - Andromeda | Croatia 🇭🇷 | Eurovision 2026",
+"center":[15.98,45.81],
+"spotifyId":"3bTsAnErZrtBoUfORcTDTo"
+},
+{
+"id":"Cyprus",
+"name":"Cyprus",
+"flagUrl":"https://flagcdn.com/w320/cy.png",
+"title":"Antigoni - Jalla | Cyprus 🇨🇾 | Eurovision 2026",
+"center":[33.38,35.18],
+"spotifyId":"1h2xmg6pH7r5pr2prKmWGc"
+},
+{
+"id":"Czechia",
+"name":"Czechia",
+"flagUrl":"https://flagcdn.com/w320/cz.png",
+"title":"Daniel Žižka - Crossroads | Czechia 🇨🇿 | Eurovision 2026",
+"center":[14.43,50.08],
+"spotifyId":"3X6cfvG2xgtx47V03hKxjG"
+},
+{
+"id":"Denmark",
+"name":"Denmark",
+"flagUrl":"https://flagcdn.com/w320/dk.png",
+"title":"Søren Torpegaard Lund - Før vi går hjem | Denmark 🇩🇰 | Eurovision 2026",
+"center":[12.57,55.68],
+"spotifyId":"6KnX2pkecFELGtegM26ezf"
+},
+{
+"id":"Estonia",
+"name":"Estonia",
+"flagUrl":"https://flagcdn.com/w320/ee.png",
+"title":"Vanilla Ninja - Too Epic To Be True | Estonia 🇪🇪 | Eurovision 2026",
+"center":[24.75,59.44],
+"spotifyId":"3Js1kS52KXZsmRU6qFLH60"
+},
 {
 "id":"Finland",
 "name":"Finland",
@@ -11,145 +108,17 @@
 "id":"France",
 "name":"France",
 "flagUrl":"https://flagcdn.com/w320/fr.png",
-"title":"Monroe - REGARDE ! | France 🇫🇷 | Eurovision 2026",
+"title":"Monroe - Regarde ! | France 🇫🇷 | Eurovision 2026",
 "center":[2.35,48.85],
 "spotifyId":"6cjjQg0SAlX7ahvYWuRPXz"
 },
 {
-"id":"Denmark",
-"name":"Denmark",
-"flagUrl":"https://flagcdn.com/w320/dk.png",
-"title":"Søren Torpegaard Lund - Før Vi Går Hjem | Denmark 🇩🇰 | Eurovision 2026",
-"center":[12.57,55.68],
-"spotifyId":"6KnX2pkecFELGtegM26ezf"
-},
-{
-"id":"Greece",
-"name":"Greece",
-"flagUrl":"https://flagcdn.com/w320/gr.png",
-"title":"Akylas - Ferto | Greece 🇬🇷 | Eurovision 2026",
-"center":[23.72,37.98],
-"spotifyId":"0LStLUCQgbv6WIEO2fFAO5"
-},
-{
-"id":"Australia",
-"name":"Australia",
-"flagUrl":"https://flagcdn.com/w320/au.png",
-"title":"Delta Goodrem - Eclipse | Australia 🇦🇺 | Eurovision 2026",
-"center":[149.13,-35.28],
-"spotifyId":"2pJ0Ji9nkohwuKMuyNhiwo"
-},
-{
-"id":"Norway",
-"name":"Norway",
-"flagUrl":"https://flagcdn.com/w320/no.png",
-"title":"FELICIA - My System | Norway 🇳🇴 | Eurovision 2026",
-"center":[10.75,59.91],
-"spotifyId":"1XmLPHkuv95o5NUodggzfv"
-},
-{
-"id":"Israel",
-"name":"Israel",
-"flagUrl":"https://flagcdn.com/w320/il.png",
-"title":"Noam Bettan - Michelle | Israel 🇮🇱 | Eurovision 2026",
-"center":[35.21,31.77],
-"spotifyId":"22g4vKHFze17AV7vnequhG"
-},
-{
-"id":"Czechia",
-"name":"Czechia",
-"flagUrl":"https://flagcdn.com/w320/cz.png",
-"title":"Daniel Žižka - CROSSROADS | Czechia 🇨🇿 | Eurovision 2026",
-"center":[14.43,50.08],
-"spotifyId":"3X6cfvG2xgtx47V03hKxjG"
-},
-{
-"id":"Cyprus",
-"name":"Cyprus",
-"flagUrl":"https://flagcdn.com/w320/cy.png",
-"title":"Antigoni - JALLA | Cyprus 🇨🇾 | Eurovision 2026",
-"center":[33.38,35.18],
-"spotifyId":"1h2xmg6pH7r5pr2prKmWGc"
-},
-{
-"id":"Ukraine",
-"name":"Ukraine",
-"flagUrl":"https://flagcdn.com/w320/ua.png",
-"title":"Leléka - Ridnym | Ukraine 🇺🇦 | Eurovision 2026",
-"center":[30.52,50.45],
-"spotifyId":"44DemLB8ChS8AaN9haWsgU"
-},
-{
-"id":"Italy",
-"name":"Italy",
-"flagUrl":"https://flagcdn.com/w320/it.png",
-"title":"Sal Da Vinci - Per sempre sì | Italy 🇮🇹 | Eurovision 2026",
-"center":[12.49,41.89],
-"spotifyId":"5W1mx7Oeg2HxmASrth1nTt"
-},
-{
-"id":"United Kingdom",
-"name":"United Kingdom",
-"flagUrl":"https://flagcdn.com/w320/gb.png",
-"title":"LOOK MUM NO COMPUTER - Eins, Zwei, Drei | United Kingdom 🇬🇧 | Eurovision 2026",
-"center":[-0.13,51.51],
-"spotifyId":"26xlJAlQoCMbnAWd0sGCQf"
-},
-{
-"id":"Malta",
-"name":"Malta",
-"flagUrl":"https://flagcdn.com/w320/mt.png",
-"title":"AIDAN - Bella | Malta 🇲🇹 | Eurovision 2026",
-"center":[14.51,35.89],
-"spotifyId":"6xMZVKtQ76THTiJBntzmwz"
-},
-{
-"id":"Armenia",
-"name":"Armenia",
-"flagUrl":"https://flagcdn.com/w320/am.png",
-"title":"DARA - Bangaranga | Armenia 🇦🇲 | Eurovision 2026",
-"center":[44.51,40.18],
-"spotifyId":"6SvlfrQYzUsW5UQUpUpy26"
-},
-{
-"id":"Lithuania",
-"name":"Lithuania",
-"flagUrl":"https://flagcdn.com/w320/lt.png",
-"title":"Eva Marija - Mother Nature | Lithuania 🇱🇹 | Eurovision 2026",
-"center":[25.28,54.69],
-"spotifyId":"4kYfZeuXXmCWLvhnPIjyr1"
-},
-{
-"id":"Switzerland",
-"name":"Switzerland",
-"flagUrl":"https://flagcdn.com/w320/ch.png",
-"title":"Veronica Fusaro - Alice | Switzerland 🇨🇭 | Eurovision 2026",
-"center":[7.45,46.95],
-"spotifyId":"4n1hRQ4uhTLhc1XaJFFofK"
-},
-{
-"id":"Sweden",
-"name":"Sweden",
-"flagUrl":"https://flagcdn.com/w320/se.png",
-"title":"JONAS LOVV - Ya Ya Ya | Sweden 🇸🇪 | Eurovision 2026",
-"center":[18.06,59.33],
-"spotifyId":"0BDJRKqx8Qj6EmM5o9P5Vr"
-},
-{
-"id":"Romania",
-"name":"Romania",
-"flagUrl":"https://flagcdn.com/w320/ro.png",
-"title":"Alexandra Căpitănescu - Choke Me | Romania 🇷🇴 | Eurovision 2026",
-"center":[26.10,44.43],
-"spotifyId":"0itI8ykSUDp4dfwiHY6fnw"
-},
-{
-"id":"Spain",
-"name":"Spain",
-"flagUrl":"https://flagcdn.com/w320/es.png",
-"title":"Lion Ceccah - Sólo Quiero Más | Spain 🇪🇸 | Eurovision 2026",
-"center":[-3.70,40.42],
-"spotifyId":"1av4wp2KoCwn9P151n45WV"
+"id":"Georgia",
+"name":"Georgia",
+"flagUrl":"https://flagcdn.com/w320/ge.png",
+"title":"Bzikebi - On Replay | Georgia 🇬🇪 | Eurovision 2026",
+"center":[44.79,41.72],
+"spotifyId":"4ybdkbEdZ2JwXFbNaRbBIY"
 },
 {
 "id":"Germany",
@@ -160,36 +129,28 @@
 "spotifyId":"2j5D20BxsN7xl11KcnLyHP"
 },
 {
-"id":"Ireland",
-"name":"Ireland",
-"flagUrl":"https://flagcdn.com/w320/ie.png",
-"title":"JIVA - Just Go | Ireland 🇮🇪 | Eurovision 2026",
-"center":[-6.26,53.35],
-"spotifyId":"3MdXycj2PnW7KBiYSzLVxD"
+"id":"Greece",
+"name":"Greece",
+"flagUrl":"https://flagcdn.com/w320/gr.png",
+"title":"Akylas - Ferto | Greece 🇬🇷 | Eurovision 2026",
+"center":[23.72,37.98],
+"spotifyId":"0LStLUCQgbv6WIEO2fFAO5"
 },
 {
-"id":"Austria",
-"name":"Austria",
-"flagUrl":"https://flagcdn.com/w320/at.png",
-"title":"LELEK - Andromeda | Austria 🇦🇹 | Eurovision 2026",
-"center":[16.37,48.21],
-"spotifyId":"3bTsAnErZrtBoUfORcTDTo"
+"id":"Israel",
+"name":"Israel",
+"flagUrl":"https://flagcdn.com/w320/il.png",
+"title":"Noam Bettan - Michelle | Israel 🇮🇱 | Eurovision 2026",
+"center":[35.21,31.77],
+"spotifyId":"22g4vKHFze17AV7vnequhG"
 },
 {
-"id":"San Marino",
-"name":"San Marino",
-"flagUrl":"https://flagcdn.com/w320/sm.png",
-"title":"Senhit - Superstar | San Marino 🇸🇲 | Eurovision 2026",
-"center":[12.45,43.94],
-"spotifyId":"7vsJ0bqsjhVnZxV2W2wRiD"
-},
-{
-"id":"Moldova",
-"name":"Moldova",
-"flagUrl":"https://flagcdn.com/w320/md.png",
-"title":"Satoshi - Viva, Moldova! | Moldova 🇲🇩 | Eurovision 2026",
-"center":[28.83,47.01],
-"spotifyId":"1aco3k5pWdUjruX6vKgovf"
+"id":"Italy",
+"name":"Italy",
+"flagUrl":"https://flagcdn.com/w320/it.png",
+"title":"Sal Da Vinci - Per sempre sì | Italy 🇮🇹 | Eurovision 2026",
+"center":[12.49,41.89],
+"spotifyId":"5W1mx7Oeg2HxmASrth1nTt"
 },
 {
 "id":"Latvia",
@@ -200,6 +161,54 @@
 "spotifyId":"5jrN6fnBH38Bh0IQJnjiUJ"
 },
 {
+"id":"Lithuania",
+"name":"Lithuania",
+"flagUrl":"https://flagcdn.com/w320/lt.png",
+"title":"Lion Ceccah - Sólo Quiero Más | Lithuania 🇱🇹 | Eurovision 2026",
+"center":[25.28,54.69],
+"spotifyId":"1av4wp2KoCwn9P151n45WV"
+},
+{
+"id":"Luxembourg",
+"name":"Luxembourg",
+"flagUrl":"https://flagcdn.com/w320/lu.png",
+"title":"Eva Marija - Mother Nature | Luxembourg 🇱🇺 | Eurovision 2026",
+"center":[6.13,49.61],
+"spotifyId":""
+},
+{
+"id":"Malta",
+"name":"Malta",
+"flagUrl":"https://flagcdn.com/w320/mt.png",
+"title":"Aidan - Bella | Malta 🇲🇹 | Eurovision 2026",
+"center":[14.51,35.89],
+"spotifyId":"6xMZVKtQ76THTiJBntzmwz"
+},
+{
+"id":"Moldova",
+"name":"Moldova",
+"flagUrl":"https://flagcdn.com/w320/md.png",
+"title":"Satoshi - Viva, Moldova! | Moldova 🇲🇩 | Eurovision 2026",
+"center":[28.83,47.01],
+"spotifyId":"1aco3k5pWdUjruX6vKgovf"
+},
+{
+"id":"Montenegro",
+"name":"Montenegro",
+"flagUrl":"https://flagcdn.com/w320/me.png",
+"title":"Tamara Živković - Nova Zora | Montenegro 🇲🇪 | Eurovision 2026",
+"center":[19.26,42.43],
+"spotifyId":"3PGOiXT00ISVuUgr14m079"
+},
+{
+"id":"Norway",
+"name":"Norway",
+"flagUrl":"https://flagcdn.com/w320/no.png",
+"title":"Jonas Lovv - Ya Ya Ya | Norway 🇳🇴 | Eurovision 2026",
+"center":[10.75,59.91],
+"spotifyId":"0BDJRKqx8Qj6EmM5o9P5Vr"
+},
+{
 "id":"Poland",
 "name":"Poland",
 "flagUrl":"https://flagcdn.com/w320/pl.png",
@@ -208,61 +217,71 @@
 "spotifyId":"7yT5rUvzEQh60Olh2GXShd"
 },
 {
-"id":"Croatia",
-"name":"Croatia",
-"flagUrl":"https://flagcdn.com/w320/hr.png",
-"title":"Lavina - Kraj mene | Croatia 🇭🇷 | Eurovision 2026",
-"center":[15.98,45.81],
-"spotifyId":"3cnVAUGWZcXNqojO8PfYOu"
-},
-{
-"id":"Iceland",
-"name":"Iceland",
-"flagUrl":"https://flagcdn.com/w320/is.png",
-"title":"Essyla - Dancing on the Ice | Iceland 🇮🇸 | Eurovision 2026",
-"center":[-21.94,64.15],
-"spotifyId":"1u0WYHtNFrAyzgybCDK861"
-},
-{
-"id":"Germany",
-"name":"Germany",
-"flagUrl":"https://flagcdn.com/w320/de.png",
-"title":"COSMÓ - TANZSCHEIN | Germany 🇩🇪 | Eurovision 2026",
-"center":[13.40,52.52],
-"spotifyId":"6P4wvzxJJZR7cVs1kFXL3q"
-},
-{
 "id":"Portugal",
 "name":"Portugal",
 "flagUrl":"https://flagcdn.com/w320/pt.png",
-"title":"Rosa - Rosa | Portugal 🇵🇹 | Eurovision 2026",
+"title":"Bandidos do Cante - Rosa | Portugal 🇵🇹 | Eurovision 2026",
 "center":[-9.14,38.72],
 "spotifyId":"03Oz6PWplRogAQJgnFuoJ7"
 },
 {
-"id":"Albania",
-"name":"Albania",
-"flagUrl":"https://flagcdn.com/w320/al.png",
-"title":"Alis - Nân | Albania 🇦🇱 | Eurovision 2026",
-"center":[19.82,41.33],
-"spotifyId":"40vsOMljwhHCibpToRULGo"
+"id":"Romania",
+"name":"Romania",
+"flagUrl":"https://flagcdn.com/w320/ro.png",
+"title":"Alexandra Căpitănescu - Choke Me | Romania 🇷🇴 | Eurovision 2026",
+"center":[26.10,44.43],
+"spotifyId":"0itI8ykSUDp4dfwiHY6fnw"
 },
 {
-"id":"Estonia",
-"name":"Estonia",
-"flagUrl":"https://flagcdn.com/w320/ee.png",
-"title":"Vanilla Ninja - Too Epic To Be True | Estonia 🇪🇪 | Eurovision 2026",
-"center":[24.75,59.44],
-"spotifyId":"3Js1kS52KXZsmRU6qFLH60"
+"id":"San Marino",
+"name":"San Marino",
+"flagUrl":"https://flagcdn.com/w320/sm.png",
+"title":"Senhit - Superstar | San Marino 🇸🇲 | Eurovision 2026",
+"center":[12.45,43.94],
+"spotifyId":"7vsJ0bqsjhVnZxV2W2wRiD"
 },
 {
 "id":"Serbia",
 "name":"Serbia",
 "flagUrl":"https://flagcdn.com/w320/rs.png",
-"title":"Tamara Živković - Nova Zora | Serbia 🇷🇸 | Eurovision 2026",
+"title":"Lavina - Kraj mene | Serbia 🇷🇸 | Eurovision 2026",
 "center":[20.46,44.81],
-"spotifyId":"3PGOiXT00ISVuUgr14m079"
+"spotifyId":"3cnVAUGWZcXNqojO8PfYOu"
+},
+{
+"id":"Sweden",
+"name":"Sweden",
+"flagUrl":"https://flagcdn.com/w320/se.png",
+"title":"Felicia - My System | Sweden 🇸🇪 | Eurovision 2026",
+"center":[18.06,59.33],
+"spotifyId":"1XmLPHkuv95o5NUodggzfv"
+},
+{
+"id":"Switzerland",
+"name":"Switzerland",
+"flagUrl":"https://flagcdn.com/w320/ch.png",
+"title":"Veronica Fusaro - Alice | Switzerland 🇨🇭 | Eurovision 2026",
+"center":[7.45,46.95],
+"spotifyId":"4n1hRQ4uhTLhc1XaJFFofK"
+},
+{
+"id":"Ukraine",
+"name":"Ukraine",
+"flagUrl":"https://flagcdn.com/w320/ua.png",
+"title":"Leléka - Ridnym | Ukraine 🇺🇦 | Eurovision 2026",
+"center":[30.52,50.45],
+"spotifyId":"44DemLB8ChS8AaN9haWsgU"
+},
+{
+"id":"United Kingdom",
+"name":"United Kingdom",
+"flagUrl":"https://flagcdn.com/w320/gb.png",
+"title":"LOOK MUM NO COMPUTER - Eins, Zwei, Drei | United Kingdom 🇬🇧 | Eurovision 2026",
+"center":[-0.13,51.51],
+"spotifyId":"26xlJAlQoCMbnAWd0sGCQf"
 }
+
+
 ],
     "Eurovision 2025": [
         {
